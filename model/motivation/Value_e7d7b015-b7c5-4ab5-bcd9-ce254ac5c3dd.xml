@@ -1,0 +1,15 @@
+<archimate:Value
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Resultaat-indicator"
+    id="e7d7b015-b7c5-4ab5-bcd9-ce254ac5c3dd"
+    documentation="Een resultaatindicator is een prestatie-indicator die gekoppeld is aan een dienst.">
+  <properties
+      key="Voorbeelden"
+      value="Percentage verhuringen aan de doelgroep van beleid"/>
+  <properties
+      key="Vanuit CORA 3"
+      value="Nieuw"/>
+  <properties
+      key="Sturingsmodel"
+      value="Ja"/>
+</archimate:Value>

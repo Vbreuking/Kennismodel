@@ -1,0 +1,18 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gebeurtenis"
+    id="919e73e0-9842-43f0-8d1d-f3d17f3fd6d6"
+    documentation="Een gebeurtenis is een toestandsverandering binnen de organisatie of in de buitenwereld die een bedrijfsproces doet starten of die uit een bedrijfsproces voortkomt.">
+  <properties
+      key="Vanuit CORA 3"
+      value="Nieuw"/>
+  <properties
+      key="Toelichting"
+      value="We nemen in de referentiearchitectuur gebeurtenissen op om duidelijk te maken wat de aanleiding is tot het starten van een bedrijfsproces en om oorzakelijke en/of temporele relaties tussen bedrijfsprocessen te kunnen modelleren."/>
+  <properties
+      key="Voorbeelden"
+      value="Klantvraag ontvangen, voorwaarde voldaan, elke 10e dag van de maand"/>
+  <properties
+      key="Processenmodel"
+      value="Ja"/>
+</archimate:BusinessEvent>

@@ -1,0 +1,24 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Product"
+    id="6becb536-3125-4749-ad48-887218fab3d1"
+    documentation="Een product is een verzameling van diensten die onder bepaalde leveringsvoorwaarden in zijn geheel wordt aangeboden aan klanten.">
+  <properties
+      key="Vanuit CORA 3"
+      value="Herzien"/>
+  <properties
+      key="Synoniemen uit de sector"
+      value="externe dienst; dienstgroep"/>
+  <properties
+      key="Productenmodel"
+      value="Ja"/>
+  <properties
+      key="Toelichting"
+      value="Het product is hetgeen dat vermeld staat in de overeenkomst  tussen leverancier en afnemer. Een product kan een fysiek goed bevatten maar dat hoeft niet. We nemen producten in de referentiearchitectuur op om de modelleren hoe samenhangende diensten als geheel en onder een enkele overeenkomst aan een afnemer worden aangeboden. Daarmee wordt zichtbaar dat per doelgroep andere voorwaarden kunnen gelden voor diensten of dat anders combinaties van diensten aangeboden kunnen worden."/>
+  <properties
+      key="Voorbeelden"
+      value="VvE-beheer, woningverkoop, vastgoedonderhoud"/>
+  <properties
+      key="Dienstenmodel"
+      value="Ja"/>
+</archimate:Product>

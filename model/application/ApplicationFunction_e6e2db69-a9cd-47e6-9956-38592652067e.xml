@@ -1,0 +1,17 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Applicatiefunctie"
+    id="e6e2db69-a9cd-47e6-9956-38592652067e"
+    documentation="Een applicatiefunctie is een logische eenheid van functionaliteit zoals die binnen een applicatie gestructureerd is.">
+  <properties
+      key="Toelichting"
+      value="Met applicatiefuncties kan de interne functionele structuur van een applicatie worden gemodelleerd. In de referentiearchitectuur doen we dit normaliter niet omdat de interne werking van applicatiecomponenten een verantwoordelijkheid van de softwareleverancier is."/>
+  <properties
+      key="Voorbeelden"/>
+  <properties
+      key="Vanuit CORA 3"
+      value="Nieuw"/>
+  <properties
+      key="Applicatiemodel"
+      value="Ja"/>
+</archimate:ApplicationFunction>

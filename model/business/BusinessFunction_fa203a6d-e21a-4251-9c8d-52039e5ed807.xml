@@ -1,0 +1,24 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bedrijfsfunctie"
+    id="fa203a6d-e21a-4251-9c8d-52039e5ed807"
+    documentation="Een bedrijfsfunctie is een coherente verzameling competenties gericht op het leveren van een of meerdere bedrijfsservices.">
+  <properties
+      key="Vanuit CORA 3"
+      value="Nieuw"/>
+  <properties
+      key="Toelichting"
+      value="We nemen in de referentiearchitectuur bedrijfsfuncties op om samenhangende bedrijfsservices (en werkprocessen) te kunnen bundelen naar competenties. Een bedrijfsfunctie kan samenvallen met een organisatorische eenheid (‘afdeling’); we nemen die echter niet in de referentiearchitectuur op omdat organisatie-inrichting sterk verschilt per organisatie en ook veranderlijk is. Merk op dat dit dit grote overlap heeft met de bedrijfsprocessen zoals die in CORA 1, 2 en 3 die in CORA 4 geen bedrijfsproces meer zijn."/>
+  <properties
+      key="Voorbeelden"
+      value="Verhuren eenheden, onderhouden eenheden, transporteren eenheden"/>
+  <properties
+      key="Bedrijfsfunctiemodel"
+      value="Ja"/>
+  <properties
+      key="Informatiefunctiemodel"
+      value="Ja"/>
+  <properties
+      key="Organisatie"
+      value="Ja"/>
+</archimate:BusinessFunction>

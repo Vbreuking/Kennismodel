@@ -1,0 +1,18 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Processtap"
+    id="dc3889c1-db48-4f4f-9876-fda8b85fb2c8"
+    documentation="Een processtap is een geordende reeks handelingen die onder verantwoordelijkheid van een enkele uitvoerende rol aaneengesloten uitgevoerd wordt en die een afgebakende bijdrage levert aan de uitvoering van een werkproces.">
+  <properties
+      key="Vanuit CORA 3"
+      value="Nieuw"/>
+  <properties
+      key="Toelichting"
+      value="We nemen processtappen in de referentiearchitectuur op om te modelleren hoe werkprocessen samengesteld zijn en welke uitvoerende rollen betrokken worden bij het verrichten van de activiteiten binnen een werkproces. Hierbij geldt dat niet alle processtappen in de referentiearchitectuur uitgewerkt zijn: in veel gevallen zullen processtappen organisatieafhankelijk bepaald zijn."/>
+  <properties
+      key="Voorbeelden"
+      value="maken afspraak met bewoner voor reparatie van apparaat"/>
+  <properties
+      key="Processenmodel"
+      value="Ja"/>
+</archimate:BusinessProcess>

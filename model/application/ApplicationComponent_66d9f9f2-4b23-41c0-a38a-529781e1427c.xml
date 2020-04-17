@@ -1,0 +1,18 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Applicatiecomponent"
+    id="66d9f9f2-4b23-41c0-a38a-529781e1427c"
+    documentation="Een applicatiecomponent is een op zichzelf staand type software met één of meerdere functies.">
+  <properties
+      key="Vanuit CORA 3"
+      value="Nieuw"/>
+  <properties
+      key="Applicatiemodel"
+      value="Ja"/>
+  <properties
+      key="Toelichting"
+      value="Met het concept ‘applicatie’ modelleren we de informatiesystemen waarmee bedrijfsprocessen worden ondersteund. De referentiearchitectuur onderkent geen productnamen maar louter logische applicaties."/>
+  <properties
+      key="Voorbeelden"
+      value="ERP-systeem, Documentmanagement (DMS), Planningsysteem"/>
+</archimate:ApplicationComponent>

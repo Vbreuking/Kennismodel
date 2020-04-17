@@ -1,0 +1,18 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="realiseert"
+    id="3b12bc72-2799-4dac-9c69-8efad5fb7ca5">
+  <properties
+      key="Applicatiemodel"
+      value="Ja"/>
+  <properties
+      key="Vanuit CORA 3"
+      value="Nieuw"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_66d9f9f2-4b23-41c0-a38a-529781e1427c.xml#66d9f9f2-4b23-41c0-a38a-529781e1427c"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_6a65ce95-10a8-4962-9df2-3c1ddf4b0cbd.xml#6a65ce95-10a8-4962-9df2-3c1ddf4b0cbd"/>
+</archimate:RealizationRelationship>

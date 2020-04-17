@@ -1,0 +1,15 @@
+<archimate:AssignmentRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="voert uit"
+    id="aaa526fc-7b3c-4708-8a5e-b2ecc9b35bdd">
+  <properties
+      key="Vanuit CORA 3"
+      value="Nieuw"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_accb7fae-7cfa-4508-8d30-328cdbd0692e.xml#accb7fae-7cfa-4508-8d30-328cdbd0692e"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_dc3889c1-db48-4f4f-9876-fda8b85fb2c8.xml#dc3889c1-db48-4f4f-9876-fda8b85fb2c8"/>
+</archimate:AssignmentRelationship>

@@ -1,0 +1,17 @@
+<archimate:Value
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Proces-indicator"
+    id="61eb81ac-f424-4443-a573-6bd3d5ac6a63"
+    documentation="Een procesindicator is een prestatie-indicator die gekoppeld is aan een bedrijfsproces.">
+  <properties
+      key="Toelichting"/>
+  <properties
+      key="Voorbeelden"
+      value="Gemiddels aantal dagen leegstand"/>
+  <properties
+      key="Vanuit CORA 3"
+      value="Nieuw"/>
+  <properties
+      key="Sturingsmodel"
+      value="Ja"/>
+</archimate:Value>

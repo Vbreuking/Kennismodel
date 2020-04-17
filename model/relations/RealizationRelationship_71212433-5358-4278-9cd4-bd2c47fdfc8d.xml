@@ -1,0 +1,13 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verantwoordelijk voor"
+    id="71212433-5358-4278-9cd4-bd2c47fdfc8d"
+    documentation="Kan verantwoordelijk zijn voor een verzameling van bedrijfsservices">
+  <source
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_fa203a6d-e21a-4251-9c8d-52039e5ed807.xml#fa203a6d-e21a-4251-9c8d-52039e5ed807"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_7159b553-81ff-4734-8ef8-4f449bbfe435.xml#7159b553-81ff-4734-8ef8-4f449bbfe435"/>
+</archimate:RealizationRelationship>

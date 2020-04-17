@@ -1,0 +1,15 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="heeft betrekking op"
+    id="d520e74e-cde0-43fe-8ba4-708907e69653">
+  <properties
+      key="Vanuit CORA 3"
+      value="Nieuw"/>
+  <source
+      xsi:type="archimate:Value"
+      href="Value_65636b8f-44b8-4d1d-a4d7-c6d2f96c7c0b.xml#65636b8f-44b8-4d1d-a4d7-c6d2f96c7c0b"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_ff3976d4-8ad4-463f-b7fe-b6d18cb732cc.xml#ff3976d4-8ad4-463f-b7fe-b6d18cb732cc"/>
+</archimate:AssociationRelationship>

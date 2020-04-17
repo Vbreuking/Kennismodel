@@ -1,0 +1,27 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Afnemende rol"
+    id="30100c19-6d7a-4fbe-a884-439a676329a5"
+    documentation="Een afnemende rol is de hoedanigheid waarin c.q. verantwoordelijkheid waarmee een persoon of organisatie een product afneemt.">
+  <properties
+      key="Toelichting"
+      value="Meestal spreken we hier van ‘klant’, maar de generiekere term ‘afnemer’ dekt ook bijvoorbeeld de toezichthouder die rapportages ontvangt."/>
+  <properties
+      key="Vanuit CORA 3"
+      value="Herzien"/>
+  <properties
+      key="Rollenmodel"
+      value="Ja"/>
+  <properties
+      key="Voorbeelden"
+      value="huurder, bewoner, toezichthouder"/>
+  <properties
+      key="Dienstenmodel"
+      value="Ja"/>
+  <properties
+      key="Processenmodel"
+      value="Ja"/>
+  <properties
+      key="Productenmodel"
+      value="Ja"/>
+</archimate:BusinessRole>

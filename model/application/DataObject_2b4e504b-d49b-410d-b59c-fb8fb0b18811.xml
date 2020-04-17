@@ -1,0 +1,18 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gegeven uit LV"
+    id="2b4e504b-d49b-410d-b59c-fb8fb0b18811"
+    documentation="Een gegeven uit LV is een gegevensobject dat op gestandaardiseerde wijze beschikbaargesteld wordt door een landelijke voorziening.">
+  <properties
+      key="Toelichting"
+      value="Gegevens uit LV onderscheiden zich van andere gegevensobjecten omdat deze conform een bepaalde landelijke standaard uit één voorziening beschikbaar gesteld worden, gelijk voor alle woningcorporaties."/>
+  <properties
+      key="Voorbeelden"
+      value="Verblijfsobject, pand, perceel, rechtspersoon"/>
+  <properties
+      key="Vanuit CORA 3"
+      value="Nieuw"/>
+  <properties
+      key="Informatiemodel"
+      value="Ja"/>
+</archimate:DataObject>

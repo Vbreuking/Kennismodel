@@ -1,0 +1,12 @@
+<archimate:AggregationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Clustert"
+    id="af4dc9f3-b744-48b0-b4c2-d9cf70d10e63">
+  <source
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_fa203a6d-e21a-4251-9c8d-52039e5ed807.xml#fa203a6d-e21a-4251-9c8d-52039e5ed807"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_acdcba49-a5b6-430e-8491-e2302f1a10ac.xml#acdcba49-a5b6-430e-8491-e2302f1a10ac"/>
+</archimate:AggregationRelationship>

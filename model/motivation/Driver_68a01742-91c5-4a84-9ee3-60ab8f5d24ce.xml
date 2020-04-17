@@ -1,0 +1,16 @@
+<archimate:Driver
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sectordoelstelling"
+    id="68a01742-91c5-4a84-9ee3-60ab8f5d24ce"
+    documentation="Een sectordoelstelling is een doelstelling die breed voor de gehele sector geldt.">
+  <properties
+      key="Toelichting"/>
+  <properties
+      key="Voorbeelden"/>
+  <properties
+      key="Vanuit CORA 3"
+      value="Nieuw"/>
+  <properties
+      key="Sturingsmodel"
+      value="Ja"/>
+</archimate:Driver>

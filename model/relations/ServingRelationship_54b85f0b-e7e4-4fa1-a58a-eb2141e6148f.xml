@@ -1,0 +1,18 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="bedient"
+    id="54b85f0b-e7e4-4fa1-a58a-eb2141e6148f">
+  <properties
+      key="Applicatiemodel"
+      value="Ja"/>
+  <properties
+      key="Vanuit CORA 3"
+      value="Nieuw"/>
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_6a65ce95-10a8-4962-9df2-3c1ddf4b0cbd.xml#6a65ce95-10a8-4962-9df2-3c1ddf4b0cbd"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_66d9f9f2-4b23-41c0-a38a-529781e1427c.xml#66d9f9f2-4b23-41c0-a38a-529781e1427c"/>
+</archimate:ServingRelationship>

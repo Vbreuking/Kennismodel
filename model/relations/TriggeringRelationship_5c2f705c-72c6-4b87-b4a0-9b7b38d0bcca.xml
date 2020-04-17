@@ -1,0 +1,15 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="veroorzaakt"
+    id="5c2f705c-72c6-4b87-b4a0-9b7b38d0bcca">
+  <properties
+      key="Vanuit CORA 3"
+      value="Nieuw"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_30100c19-6d7a-4fbe-a884-439a676329a5.xml#30100c19-6d7a-4fbe-a884-439a676329a5"/>
+  <target
+      xsi:type="archimate:BusinessEvent"
+      href="BusinessEvent_919e73e0-9842-43f0-8d1d-f3d17f3fd6d6.xml#919e73e0-9842-43f0-8d1d-f3d17f3fd6d6"/>
+</archimate:TriggeringRelationship>

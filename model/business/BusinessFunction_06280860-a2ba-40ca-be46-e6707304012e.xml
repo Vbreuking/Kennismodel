@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Hoofd-bedrijfsfunctie"
+    id="06280860-a2ba-40ca-be46-e6707304012e"
+    documentation="In CORA introduceren we het begrip hoofd bedrijfsfunctie als een een coherente verzameling competenties gericht op het leveren van een of meerdere diensten.">
+  <properties
+      key="Vanuit CORA 3"
+      value="Nieuw"/>
+  <properties
+      key="Bedrijfsfunctiemodel"
+      value="Ja"/>
+  <properties
+      key="Voorbeelden"
+      value="Ontwikkeling, Beheer, Besturing, Verantwoording, Ondersteuning"/>
+  <properties
+      key="Organisatie"
+      value="Ja"/>
+</archimate:BusinessFunction>

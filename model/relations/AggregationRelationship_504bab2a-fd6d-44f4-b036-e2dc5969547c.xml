@@ -1,0 +1,15 @@
+<archimate:AggregationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="bestaat uit"
+    id="504bab2a-fd6d-44f4-b036-e2dc5969547c">
+  <properties
+      key="Vanuit CORA 3"
+      value="Nieuw"/>
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_dc3889c1-db48-4f4f-9876-fda8b85fb2c8.xml#dc3889c1-db48-4f4f-9876-fda8b85fb2c8"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_64576a36-21af-426d-af1b-cd7800795b67.xml#64576a36-21af-426d-af1b-cd7800795b67"/>
+</archimate:AggregationRelationship>

@@ -1,0 +1,12 @@
+<archimate:AggregationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="clustert"
+    id="9621f07a-4c00-4172-8eac-f971bcb6812b">
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_2cf032d6-6ea0-4e93-8ca7-54b95425f311.xml#2cf032d6-6ea0-4e93-8ca7-54b95425f311"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_30100c19-6d7a-4fbe-a884-439a676329a5.xml#30100c19-6d7a-4fbe-a884-439a676329a5"/>
+</archimate:AggregationRelationship>

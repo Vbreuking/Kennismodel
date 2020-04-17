@@ -1,0 +1,21 @@
+<archimate:BusinessInteraction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Procesketen"
+    id="f620e23a-7327-424f-9148-84712ed11112"
+    documentation="Een procesketen is een samenwerking van meerdere organisaties met elk een eigen verantwoordelijkheid die de levering van een of meer samenhangende diensten aan een klant realiseert.">
+  <properties
+      key="Vanuit CORA 3"
+      value="Herzien"/>
+  <properties
+      key="Synoniemen uit de sector"
+      value="Ketenproces, netwerkproces"/>
+  <properties
+      key="Toelichting"
+      value="Kenmerkend voor een keten is dat de betrokken organisaties met elkaar samenwerken maar elk hun eigen verantwoordelijkheid jegens de klant houden (en dus elk een ‘dienst’ leveren aan die klant). Dat maakt het ook lastig, je kunt elkaar niet aansturen, hooguit aansporen. Als dat wel zou kunnen is er geen sprake meer van een keten maar van een bedrijfsproces waarbij klaarblijkelijk gedeelten worden uitbesteed. We nemen procesketens in de referentiearchitectuur op om een breder perspectief te bieden op die bedrijfsprocessen en diensten die voor de beoogde klant maar een deelresultaat zijn. Het is niet de bedoeling om ook de bedrijfsprocessen van de partners in de keten te modelleren; dat valt buiten de scope van CORA."/>
+  <properties
+      key="Voorbeelden"
+      value="Beoordelen en toekennen urgentieverklaring, transporteren eenheden (we kunnen eenheden niet verkopen en terugkopen zonder de diensten van de notaris)"/>
+  <properties
+      key="Processenmodel"
+      value="Ja"/>
+</archimate:BusinessInteraction>

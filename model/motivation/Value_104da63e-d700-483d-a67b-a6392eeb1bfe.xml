@@ -1,0 +1,18 @@
+<archimate:Value
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kengetal"
+    id="104da63e-d700-483d-a67b-a6392eeb1bfe"
+    documentation="Een kengetal is een getal dat is uitgedrukt in geld- of in fysieke eenheden en dat de toestand van of de ontwikkeling op een bepaald beleidsterrein weergeeft.">
+  <properties
+      key="Vanuit CORA 3"
+      value="Overgenomen"/>
+  <properties
+      key="Toelichting"
+      value="We nemen kengetallen in de referentiearchitectuur op om te modelleren hoe prestatie-indicatoren samengesteld zijn. Binnen CORA zijn kengetallen altijd enkelvoudig en niet samengesteld."/>
+  <properties
+      key="Voorbeelden"
+      value="Aantal eenheden met nieuwe huurovereenkomst in de meetperiode; aantal leegstandsdagen van leegstaande eenheden"/>
+  <properties
+      key="Sturingsmodel"
+      value="Ja"/>
+</archimate:Value>

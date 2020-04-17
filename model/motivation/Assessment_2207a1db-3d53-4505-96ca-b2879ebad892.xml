@@ -1,0 +1,14 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Risico"
+    id="2207a1db-3d53-4505-96ca-b2879ebad892">
+  <properties
+      key="Sturingsmodel"
+      value="Ja"/>
+  <properties
+      key="Vanuit CORA 3"
+      value="Nieuw"/>
+  <properties
+      key="Voorbeelden"
+      value="Fraude, waardeverlies"/>
+</archimate:Assessment>
