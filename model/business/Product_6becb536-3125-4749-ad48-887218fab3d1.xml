@@ -21,4 +21,7 @@
   <properties
       key="Dienstenmodel"
       value="Ja"/>
+  <properties
+      key="CORA processjabloon"
+      value="Ja"/>
 </archimate:Product>

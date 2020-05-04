@@ -24,4 +24,7 @@
   <properties
       key="Bedrijfsservicesmodel"
       value="Ja"/>
+  <properties
+      key="CORA processjabloon"
+      value="Ja"/>
 </archimate:BusinessService>

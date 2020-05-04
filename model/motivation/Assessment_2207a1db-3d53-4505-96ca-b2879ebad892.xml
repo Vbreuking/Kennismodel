@@ -11,4 +11,7 @@
   <properties
       key="Voorbeelden"
       value="Fraude, waardeverlies"/>
+  <properties
+      key="CORA processjabloon"
+      value="Ja"/>
 </archimate:Assessment>

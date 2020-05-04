@@ -24,4 +24,7 @@
   <properties
       key="Informatiefunctiemodel"
       value="Ja"/>
+  <properties
+      key="CORA processjabloon"
+      value="Ja"/>
 </archimate:BusinessService>

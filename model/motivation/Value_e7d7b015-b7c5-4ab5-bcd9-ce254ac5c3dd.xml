@@ -12,4 +12,7 @@
   <properties
       key="Sturingsmodel"
       value="Ja"/>
+  <properties
+      key="CORA processjabloon"
+      value="Ja"/>
 </archimate:Value>

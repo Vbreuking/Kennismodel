@@ -21,4 +21,7 @@
   <properties
       key="Organisatie"
       value="Ja"/>
+  <properties
+      key="CORA processjabloon"
+      value="Ja"/>
 </archimate:BusinessFunction>
