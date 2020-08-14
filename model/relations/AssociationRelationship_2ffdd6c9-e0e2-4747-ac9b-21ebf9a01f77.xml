@@ -1,6 +1,7 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="gekoppeld aan"
     id="2ffdd6c9-e0e2-4747-ac9b-21ebf9a01f77">
   <source
       xsi:type="archimate:Assessment"

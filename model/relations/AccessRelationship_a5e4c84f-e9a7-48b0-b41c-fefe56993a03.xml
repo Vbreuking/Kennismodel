@@ -1,12 +1,12 @@
-<archimate:ServingRelationship
+<archimate:AccessRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="bedient"
-    id="c4376c7c-3417-4d75-9b7b-af10d77e4f4b">
+    name="gebruikt"
+    id="a5e4c84f-e9a7-48b0-b41c-fefe56993a03">
   <source
       xsi:type="archimate:ApplicationService"
       href="ApplicationService_b8fbb57c-3b03-48fc-b172-dd11698842e2.xml#b8fbb57c-3b03-48fc-b172-dd11698842e2"/>
   <target
-      xsi:type="archimate:BusinessProcess"
-      href="BusinessProcess_acdcba49-a5b6-430e-8491-e2302f1a10ac.xml#acdcba49-a5b6-430e-8491-e2302f1a10ac"/>
-</archimate:ServingRelationship>
+      xsi:type="archimate:DataObject"
+      href="DataObject_668edab5-cb70-4dc1-a8be-dd85020455b4.xml#668edab5-cb70-4dc1-a8be-dd85020455b4"/>
+</archimate:AccessRelationship>
