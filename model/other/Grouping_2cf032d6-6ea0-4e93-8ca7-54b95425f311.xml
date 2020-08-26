@@ -21,4 +21,10 @@
   <properties
       key="Productenmodel"
       value="Ja"/>
+  <properties
+      key="Producten en diensten model"
+      value="Ja"/>
+  <properties
+      key="CORA producten en dienstenmodel"
+      value="Ja"/>
 </archimate:Grouping>

@@ -1,0 +1,21 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gegevensobjecten-domein"
+    id="bfbe75c5-4dfb-4350-b301-3273599c7d35"
+    documentation="Een gegevensobjecten-domein is een logisch samenhangende groepering van gegevensobjecten.">
+  <properties
+      key="Applicatielaag en services"
+      value="Ja"/>
+  <properties
+      key="Informatiefunctiemodel"
+      value="Ja"/>
+  <properties
+      key="Applicatiemodel"
+      value="Ja"/>
+  <properties
+      key="Gegevenshuishouding"
+      value="Ja"/>
+  <properties
+      key="Voorbeelden"
+      value="Vastgoed, relaties, financiën"/>
+</archimate:Grouping>

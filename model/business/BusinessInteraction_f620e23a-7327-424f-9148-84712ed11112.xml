@@ -16,9 +16,12 @@
       key="Voorbeelden"
       value="Beoordelen en toekennen urgentieverklaring, transporteren eenheden (we kunnen eenheden niet verkopen en terugkopen zonder de diensten van de notaris)"/>
   <properties
-      key="Processenmodel"
+      key="CORA procesmodel"
       value="Ja"/>
   <properties
       key="CORA processjabloon"
+      value="Ja"/>
+  <properties
+      key="Bedrijfsprocesmodel"
       value="Ja"/>
 </archimate:BusinessInteraction>

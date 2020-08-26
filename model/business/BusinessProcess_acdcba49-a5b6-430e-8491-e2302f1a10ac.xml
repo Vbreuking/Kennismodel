@@ -13,12 +13,21 @@
       key="Voorbeelden"
       value="Onderhouden relatie, inplannen reparatie"/>
   <properties
-      key="Processenmodel"
+      key="CORA procesmodel"
       value="Ja"/>
   <properties
       key="Bedrijfsservicesmodel"
       value="Ja"/>
   <properties
       key="CORA processjabloon"
+      value="Ja"/>
+  <properties
+      key="Sturingsmodel"
+      value="Ja"/>
+  <properties
+      key="Applicatielaag en services"
+      value="Ja"/>
+  <properties
+      key="Werkprocesmodel"
       value="Ja"/>
 </archimate:BusinessProcess>

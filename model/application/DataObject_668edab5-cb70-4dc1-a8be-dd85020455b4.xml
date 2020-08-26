@@ -21,4 +21,10 @@
   <properties
       key="CORA processjabloon"
       value="Ja"/>
+  <properties
+      key="Gegevenshuishouding"
+      value="Ja"/>
+  <properties
+      key="Applicatielaag en services"
+      value="Ja"/>
 </archimate:DataObject>

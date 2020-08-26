@@ -13,6 +13,6 @@
       key="Voorbeelden"
       value="Invoeren afspraak in afsprakensysteem"/>
   <properties
-      key="Processenmodel"
+      key="CORA procesmodel"
       value="Ja"/>
 </archimate:BusinessProcess>

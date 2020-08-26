@@ -18,4 +18,7 @@
   <properties
       key="Sturingsmodel"
       value="Ja"/>
+  <properties
+      key="Prestatiemeting"
+      value="Ja"/>
 </archimate:Value>

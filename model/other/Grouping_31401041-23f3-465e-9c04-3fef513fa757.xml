@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Bedrijfsobjecten-domein"
     id="31401041-23f3-465e-9c04-3fef513fa757"
-    documentation="Een Bedrijfsobjecten-domein is een logisch samenhangende groepering van bedrijfsobjecten.">
+    documentation="Een bedrijfsobjecten-domein is een logisch samenhangende groepering van bedrijfsobjecten.">
   <properties
       key="Informatiemodel"
       value="Ja"/>
@@ -15,4 +15,13 @@
   <properties
       key="Vanuit CORA 3"
       value="Overgenomen"/>
+  <properties
+      key="Gegevenshuishouding"
+      value="Ja"/>
+  <properties
+      key="Applicatielaag en services"
+      value="Ja"/>
+  <properties
+      key="Werkprocesmodel"
+      value="Ja"/>
 </archimate:Grouping>

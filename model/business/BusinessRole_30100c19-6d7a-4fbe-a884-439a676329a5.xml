@@ -19,9 +19,12 @@
       key="Dienstenmodel"
       value="Ja"/>
   <properties
-      key="Processenmodel"
+      key="Productenmodel"
       value="Ja"/>
   <properties
-      key="Productenmodel"
+      key="Producten en diensten model"
+      value="Ja"/>
+  <properties
+      key="CORA producten en dienstenmodel"
       value="Ja"/>
 </archimate:BusinessRole>

@@ -15,4 +15,7 @@
   <properties
       key="Voorbeelden"
       value="KOVRAkoppeling"/>
+  <properties
+      key="Applicatielaag en services"
+      value="Ja"/>
 </archimate:ApplicationInterface>

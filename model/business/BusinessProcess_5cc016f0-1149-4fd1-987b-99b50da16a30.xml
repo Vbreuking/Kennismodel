@@ -13,12 +13,18 @@
       key="Voorbeelden"
       value="Verhuren eenheid, uitvoeren reparatieverzoek, voeren VVE beheer"/>
   <properties
-      key="Processenmodel"
+      key="CORA procesmodel"
       value="Ja"/>
   <properties
       key="Sturingsmodel"
       value="Ja"/>
   <properties
       key="CORA processjabloon"
+      value="Ja"/>
+  <properties
+      key="Bedrijfsprocesmodel"
+      value="Ja"/>
+  <properties
+      key="Werkprocesmodel"
       value="Ja"/>
 </archimate:BusinessProcess>

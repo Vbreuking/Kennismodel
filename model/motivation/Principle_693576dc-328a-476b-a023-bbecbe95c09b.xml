@@ -12,7 +12,4 @@
   <properties
       key="Voorbeelden"
       value="Enkelvoudig uitvragen van gegevens"/>
-  <properties
-      key="Sturingsmodel"
-      value="Ja"/>
 </archimate:Principle>

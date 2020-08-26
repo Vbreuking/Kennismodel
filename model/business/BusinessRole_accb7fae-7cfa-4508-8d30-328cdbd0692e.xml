@@ -21,4 +21,10 @@
   <properties
       key="Organisatie"
       value="Ja"/>
+  <properties
+      key="Applicatielaag en services"
+      value="Ja"/>
+  <properties
+      key="Werkprocesmodel"
+      value="Ja"/>
 </archimate:BusinessRole>

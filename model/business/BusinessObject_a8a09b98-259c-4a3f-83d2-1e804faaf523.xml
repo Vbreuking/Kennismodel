@@ -13,5 +13,6 @@
       key="Toelichting"
       value="Voor organisaties die zaakgericht werken vormt het zaaktype de classificatie van een onderhanden zaak. Het zaaktype beschrijft daarbij welke procesgang gevolgd wordt, welke informatie benodigd is, etc."/>
   <properties
-      key="Voorbeelden"/>
+      key="Zaakgericht werken"
+      value="Ja"/>
 </archimate:BusinessObject>

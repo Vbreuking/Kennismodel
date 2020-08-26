@@ -1,4 +1,17 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Deelbedrijfsservice"
-    id="d2eeb447-2785-428f-b9a7-7078e285374b"/>
+    id="d2eeb447-2785-428f-b9a7-7078e285374b">
+  <properties
+      key="Vanuit CORA 3"
+      value="Nieuw"/>
+  <properties
+      key="Producten en diensten model"
+      value="Ja"/>
+  <properties
+      key="CORA producten en dienstenmodel"
+      value="Ja"/>
+  <properties
+      key="Toelichting"
+      value="We nemen deelbedrijfsservices in de referentiearchitectuur op om te modelleren hoe de producten en diensten hiërarchie is opgebouwd en met welk processtappen ze worden gerealiseerd. Hierbij geldt dat niet alle processtappen in de referentiearchitectuur uitgewerkt zijn: in veel gevallen zullen processtappen organisatieafhankelijk bepaald zijn."/>
+</archimate:BusinessService>

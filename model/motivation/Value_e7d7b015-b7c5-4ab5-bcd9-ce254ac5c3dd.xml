@@ -15,4 +15,7 @@
   <properties
       key="CORA processjabloon"
       value="Ja"/>
+  <properties
+      key="Prestatiemeting"
+      value="Ja"/>
 </archimate:Value>

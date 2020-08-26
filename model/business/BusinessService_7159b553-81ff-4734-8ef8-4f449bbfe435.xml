@@ -11,12 +11,9 @@
       value="Een bedrijfsservice (‘deeldienst’) vormt een stukje in de dienstverlening. Het is het resultaat van een werkproces. De afnemer van de bedrijfsservice kan de eindklant zijn maar ook een interne medewerker of afdeling die het resultaat nodig heeft voor het uitvoeren van het eigen werkproces. We nemen in de referentiearchitectuur bedrijfsservices op om duidelijk te maken welke resultaten werkprocessen opleveren en wat de bijdrage daarvan is aan de dienstverlening aan afnemers."/>
   <properties
       key="Voorbeelden"
-      value="Maken afspraak voor onderhoud"/>
+      value="getekende huurovereenkomst, kandidatenlijst, gebiedsvisie, boeking, overdrachtsbesluit"/>
   <properties
       key="Dienstenmodel"
-      value="Ja"/>
-  <properties
-      key="Processenmodel"
       value="Ja"/>
   <properties
       key="Bedrijfsservicesmodel"
@@ -26,5 +23,20 @@
       value="Ja"/>
   <properties
       key="CORA processjabloon"
+      value="Ja"/>
+  <properties
+      key="Sturingsmodel"
+      value="Ja"/>
+  <properties
+      key="Applicatielaag en services"
+      value="Ja"/>
+  <properties
+      key="Producten en diensten model"
+      value="Ja"/>
+  <properties
+      key="CORA producten en dienstenmodel"
+      value="Ja"/>
+  <properties
+      key="Werkprocesmodel"
       value="Ja"/>
 </archimate:BusinessService>
