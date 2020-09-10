@@ -805,7 +805,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="5da3c5a9-3939-4514-b0a2-5419cb83f2b0"
-      targetConnections="451909ad-1bc7-4fb3-8d14-e3bf9beede89 6a7134d6-0e60-4d4a-924c-d93c991435b5 d9847ea6-9895-4b1e-89d0-4e9001cc850b 7fe92b14-5dbd-4bce-a0d6-596bcd008f78"
+      targetConnections="451909ad-1bc7-4fb3-8d14-e3bf9beede89 6a7134d6-0e60-4d4a-924c-d93c991435b5 d9847ea6-9895-4b1e-89d0-4e9001cc850b 7fe92b14-5dbd-4bce-a0d6-596bcd008f78 fa63783a-0a6f-4f32-bcec-2ce12f634e40"
       fontColor="#400040"
       fillColor="#ffffb5"
       textPosition="1">
@@ -1099,5 +1099,41 @@
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_bfbe75c5-4dfb-4350-b301-3273599c7d35.xml#bfbe75c5-4dfb-4350-b301-3273599c7d35"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="bcb22ff1-5ec5-4327-a405-fc78866e20f0"
+      fontColor="#808080"
+      fillColor="#ffffff"
+      textPosition="1">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="fa63783a-0a6f-4f32-bcec-2ce12f634e40"
+        fontColor="#808080"
+        lineColor="#808080"
+        source="bcb22ff1-5ec5-4327-a405-fc78866e20f0"
+        target="5da3c5a9-3939-4514-b0a2-5419cb83f2b0">
+      <bendpoints
+          startX="-1"
+          startY="54"
+          endX="-121"
+          endY="-51"/>
+      <bendpoints
+          startX="107"
+          startY="54"
+          endX="-13"
+          endY="-51"/>
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_fe852500-0371-485a-b690-fdb8171b75e3.xml#fe852500-0371-485a-b690-fdb8171b75e3"/>
+    </sourceConnections>
+    <bounds
+        x="133"
+        y="435"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessRole"
+        href="BusinessRole_df196ad7-ddb1-4426-9565-8e7a0af5b835.xml#df196ad7-ddb1-4426-9565-8e7a0af5b835"/>
   </children>
 </archimate:ArchimateDiagramModel>
