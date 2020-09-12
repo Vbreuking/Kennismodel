@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Kennismodel 1.2"
+    name="Kennismodel 1.3"
     id="b2418de4-73aa-4580-a779-d930e75f9ee0">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -239,22 +239,6 @@
     <archimateElement
         xsi:type="archimate:BusinessFunction"
         href="BusinessFunction_fa203a6d-e21a-4251-9c8d-52039e5ed807.xml#fa203a6d-e21a-4251-9c8d-52039e5ed807"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="f35d2b96-1579-463a-b1e3-a4ae3cb8c548"
-      fontColor="#808080"
-      lineColor="#808080"
-      fillColor="#ffffff"
-      textPosition="1">
-    <bounds
-        x="336"
-        y="840"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:BusinessObject"
-        href="BusinessObject_a8a09b98-259c-4a3f-83d2-1e804faaf523.xml#a8a09b98-259c-4a3f-83d2-1e804faaf523"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -1135,5 +1119,17 @@
     <archimateElement
         xsi:type="archimate:BusinessRole"
         href="BusinessRole_df196ad7-ddb1-4426-9565-8e7a0af5b835.xml#df196ad7-ddb1-4426-9565-8e7a0af5b835"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="fd4c1555-5d8c-434d-877d-ab5ae2bd84db">
+    <bounds
+        x="336"
+        y="840"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessObject"
+        href="BusinessObject_a8a09b98-259c-4a3f-83d2-1e804faaf523.xml#a8a09b98-259c-4a3f-83d2-1e804faaf523"/>
   </children>
 </archimate:ArchimateDiagramModel>
