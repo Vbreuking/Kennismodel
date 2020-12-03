@@ -30,4 +30,7 @@
   <properties
       key="Werkprocesmodel"
       value="Ja"/>
+  <properties
+      key="RCF"
+      value="Ja"/>
 </archimate:BusinessProcess>

@@ -33,4 +33,7 @@
   <properties
       key="Bedrijfsprocesmodel"
       value="Ja"/>
+  <properties
+      key="RCF"
+      value="Ja"/>
 </archimate:BusinessService>
