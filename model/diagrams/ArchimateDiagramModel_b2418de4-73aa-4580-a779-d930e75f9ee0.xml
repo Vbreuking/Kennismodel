@@ -983,6 +983,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="e95533df-3faf-4543-9c1b-15682ab6606e"
       targetConnections="bc70ccad-554c-43ac-8d95-c715a94bdae6 628b6b64-05ba-4730-875e-cb97c49f317c"
+      fontColor="#808080"
       fillColor="#ffffff"
       textPosition="1">
     <bounds
@@ -1139,10 +1140,14 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="5bf5d522-8106-4211-951c-372ae0e32248"
+      fontColor="#808080"
+      fillColor="#ffffff"
       textPosition="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="57ef1967-d8fd-414c-815f-85f321abc54a"
+        fontColor="#808080"
+        lineColor="#808080"
         source="5bf5d522-8106-4211-951c-372ae0e32248"
         target="bb3caa53-c15c-438e-88de-e86cdd3250b5">
       <archimateRelationship

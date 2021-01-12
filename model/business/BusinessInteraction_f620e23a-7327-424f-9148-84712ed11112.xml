@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Procesketen"
     id="f620e23a-7327-424f-9148-84712ed11112"
-    documentation="Een procesketen is een samenwerking van meerdere organisaties/organisatieonderdelen met elk een eigen verantwoordelijkheid die de levering van een of meer samenhangende diensten aan een klant realiseert.">
+    documentation="Een procesketen is een samenwerking van meerdere organisaties/organisatieonderdelen met elk een eigen verantwoordelijkheid die de levering van een of meer samenhangende diensten aan een (interne) klant realiseert.">
   <properties
       key="Vanuit CORA 3"
       value="Herzien"/>
