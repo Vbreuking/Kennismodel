@@ -24,4 +24,7 @@
   <properties
       key="Werkprocesmodel"
       value="Ja"/>
+  <properties
+      key="BIM"
+      value="Ja"/>
 </archimate:Grouping>

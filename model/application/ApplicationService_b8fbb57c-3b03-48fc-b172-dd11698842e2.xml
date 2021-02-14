@@ -27,4 +27,7 @@
   <properties
       key="Applicatielaag en services"
       value="Ja"/>
+  <properties
+      key="BIM"
+      value="Ja"/>
 </archimate:ApplicationService>
