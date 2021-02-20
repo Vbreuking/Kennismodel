@@ -1127,7 +1127,10 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="fd4c1555-5d8c-434d-877d-ab5ae2bd84db">
+      id="fd4c1555-5d8c-434d-877d-ab5ae2bd84db"
+      fontColor="#808080"
+      fillColor="#ffffff"
+      textPosition="1">
     <bounds
         x="336"
         y="840"
