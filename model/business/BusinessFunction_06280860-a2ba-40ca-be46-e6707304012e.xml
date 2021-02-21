@@ -21,4 +21,7 @@
   <properties
       key="Bedrijfsprocesmodel"
       value="Ja"/>
+  <properties
+      key="Thema procesketen"
+      value="Ja"/>
 </archimate:BusinessFunction>

@@ -30,4 +30,7 @@
   <properties
       key="Werkprocesmodel"
       value="Ja"/>
+  <properties
+      key="Thema procesketen"
+      value="Ja"/>
 </archimate:BusinessFunction>

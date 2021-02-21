@@ -3,6 +3,9 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="verantwoordelijk voor"
     id="89b427f2-93ab-4acf-acaf-831eaa9c803a">
+  <properties
+      key="Thema procesketen"
+      value="Ja"/>
   <source
       xsi:type="archimate:BusinessFunction"
       href="BusinessFunction_06280860-a2ba-40ca-be46-e6707304012e.xml#06280860-a2ba-40ca-be46-e6707304012e"/>

@@ -3,6 +3,9 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="realiseert"
     id="8db6301f-57ac-4c0c-b2cd-069754c4ed56">
+  <properties
+      key="Thema procesketen"
+      value="Ja"/>
   <source
       xsi:type="archimate:BusinessProcess"
       href="BusinessProcess_acdcba49-a5b6-430e-8491-e2302f1a10ac.xml#acdcba49-a5b6-430e-8491-e2302f1a10ac"/>

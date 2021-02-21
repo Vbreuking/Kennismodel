@@ -30,4 +30,10 @@
   <properties
       key="RCF"
       value="Ja"/>
+  <properties
+      key="BIM"
+      value="Ja"/>
+  <properties
+      key="Thema procesketen"
+      value="Ja"/>
 </archimate:BusinessProcess>
