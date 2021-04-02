@@ -1,0 +1,24 @@
+<archimate:BusinessInteraction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Stuurscenario"
+    id="id-0991df64090044bdbec4049e041f0502"
+    documentation="Een stuurscenario is een keten van processen waar de woningcorporatie integraal stuurt.">
+  <properties
+      key="Vanuit CORA 3"
+      value="Nieuw"/>
+  <properties
+      key="Sturingsmodel"
+      value="Ja"/>
+  <properties
+      key="RCF"
+      value="Ja"/>
+  <properties
+      key="Voorbeelden"
+      value="Verhuurmutaties, wederverkoop eenheden, terugkoop naar verhuur"/>
+  <properties
+      key="CORA processjabloon"
+      value="Ja"/>
+  <properties
+      key="Toelichting"
+      value="Een stuurscenario kan bestaan uit één of meerdere procesketens, maar dat hoeft niet."/>
+</archimate:BusinessInteraction>
