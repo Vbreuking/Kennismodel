@@ -1,4 +1,5 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Applicatiefunctie"
-    id="id-003c121309bc42a7b3a32eb14b53b4d0"/>
+    id="id-003c121309bc42a7b3a32eb14b53b4d0"
+    documentation="Een samenhangende groep interne gedragingen van een applicatiecomponent. Via applicatiefuncties realiseert een applicatiecomponent applicatieservices."/>
