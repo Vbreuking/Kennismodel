@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="bedient"
+    id="id-ca5b2c10-03b8-4307-8167-c684f7773f39">
+  <source
+      xsi:type="archimate:TechnologyService"
+      href="TechnologyService_id-6d7ae7d1-85b6-4847-b3f9-7b35b58c5f52.xml#id-6d7ae7d1-85b6-4847-b3f9-7b35b58c5f52"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-5081542c-c8e6-4aff-a694-6767c34f9404.xml#id-5081542c-c8e6-4aff-a694-6767c34f9404"/>
+</archimate:ServingRelationship>

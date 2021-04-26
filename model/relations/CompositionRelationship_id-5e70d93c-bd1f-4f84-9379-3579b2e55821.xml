@@ -1,0 +1,12 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="bestaande uit"
+    id="id-5e70d93c-bd1f-4f84-9379-3579b2e55821">
+  <source
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_id-ec5d9c3a-06c4-4024-9130-fbfd77302478.xml#id-ec5d9c3a-06c4-4024-9130-fbfd77302478"/>
+  <target
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-131fd0f7-f7aa-4968-b655-12a695b516cd.xml#id-131fd0f7-f7aa-4968-b655-12a695b516cd"/>
+</archimate:CompositionRelationship>

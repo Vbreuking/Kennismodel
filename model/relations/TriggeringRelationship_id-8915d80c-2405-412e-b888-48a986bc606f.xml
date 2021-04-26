@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="triggert/levert aan"
+    id="id-8915d80c-2405-412e-b888-48a986bc606f">
+  <source
+      xsi:type="archimate:ApplicationEvent"
+      href="ApplicationEvent_id-1c00176e-4b49-4561-9cc6-a0a0966e98d0.xml#id-1c00176e-4b49-4561-9cc6-a0a0966e98d0"/>
+  <target
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-56fcf475-071a-4a1f-a9fc-c88fbc57dd40.xml#id-56fcf475-071a-4a1f-a9fc-c88fbc57dd40"/>
+</archimate:TriggeringRelationship>
