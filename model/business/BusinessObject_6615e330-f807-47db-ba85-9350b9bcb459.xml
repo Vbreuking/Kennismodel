@@ -7,9 +7,6 @@
       key="Vanuit CORA 3"
       value="Herzien"/>
   <properties
-      key="Status"
-      value="Nog niet ingevuld"/>
-  <properties
       key="Toelichting"
       value="Naast de architectuurconcepten in het metamodel hanteren we diverse begrippen die een nadere toelichting vragen. Daarvoor gebruiken we dit algemene concept. Dit concept kent geen formele relaties met andere concepten, maar in de tekst bij een begrip zijn wel informele verwijzingen mogelijk naar andere concepten in de architectuur."/>
   <properties
