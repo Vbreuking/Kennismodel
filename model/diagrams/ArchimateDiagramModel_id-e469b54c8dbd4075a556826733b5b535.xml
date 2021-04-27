@@ -151,6 +151,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-7a52dcde74744de9820015a8ae44c440"
       targetConnections="id-66b77b8eff534e2caba7dcba7bc808a2 id-e8ce708a98a44eec8125444a9e63675d"
+      fillColor="#ffffff"
       textPosition="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -269,8 +270,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-2e0a5a8a034a4f68a19adbde60d45a34"
       targetConnections="id-2f27483e5d50434691a8537e5c4d14a4 id-bd341460fda7409e80096259f2cd0338"
-      fontColor="#808080"
-      fillColor="#ffffff"
+      fontColor="#000000"
+      fillColor="#b5ffff"
       textPosition="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
