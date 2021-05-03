@@ -212,7 +212,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="f29016b5-57dd-4d73-8071-5dcb46256923"
-      targetConnections="2278c8b1-c7cd-483e-8807-844094a64605 ec975961-8833-470e-a9e5-e58c8c2c2ce7 id-ce76971a36984013a2dbe4fa8820ddf1"
+      targetConnections="2278c8b1-c7cd-483e-8807-844094a64605 id-ce76971a36984013a2dbe4fa8820ddf1 id-1fc9bb9958274e37bedb1726c39c5c44"
       fontColor="#400040"
       fillColor="#ffffb5"
       textPosition="1">
@@ -963,26 +963,26 @@
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="ec975961-8833-470e-a9e5-e58c8c2c2ce7"
-        source="af2eaab8-0ebf-4092-9623-6c0ef4e5929f"
-        target="f29016b5-57dd-4d73-8071-5dcb46256923">
-      <bendpoints
-          startX="-1"
-          startY="93"
-          endX="-1"
-          endY="-162"/>
-      <archimateRelationship
-          xsi:type="archimate:CompositionRelationship"
-          href="CompositionRelationship_d731c2eb-f6a2-40a4-8091-38df71584353.xml#d731c2eb-f6a2-40a4-8091-38df71584353"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="6ebcb9c8-a3ad-46e7-a7e9-058315677ccb"
         source="af2eaab8-0ebf-4092-9623-6c0ef4e5929f"
         target="c54a2bf0-23e8-41d0-91b1-283d4c4db64d">
       <archimateRelationship
           xsi:type="archimate:AggregationRelationship"
           href="AggregationRelationship_a33affa9-62de-47dd-ad18-bc8900d76bda.xml#a33affa9-62de-47dd-ad18-bc8900d76bda"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-1fc9bb9958274e37bedb1726c39c5c44"
+        source="af2eaab8-0ebf-4092-9623-6c0ef4e5929f"
+        target="f29016b5-57dd-4d73-8071-5dcb46256923">
+      <bendpoints
+          startX="-1"
+          startY="81"
+          endX="-1"
+          endY="-159"/>
+      <archimateRelationship
+          xsi:type="archimate:AggregationRelationship"
+          href="AggregationRelationship_id-c63664855f804475884dea288b0ce4c6.xml#id-c63664855f804475884dea288b0ce4c6"/>
     </sourceConnections>
     <bounds
         x="469"
