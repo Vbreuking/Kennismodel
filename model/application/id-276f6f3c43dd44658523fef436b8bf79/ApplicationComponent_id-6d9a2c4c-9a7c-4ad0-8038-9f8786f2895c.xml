@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ApplicatieComponent"
-    id="id-6d9a2c4c-9a7c-4ad0-8038-9f8786f2895c"/>
+    id="id-6d9a2c4c-9a7c-4ad0-8038-9f8786f2895c"
+    documentation="Een modulair, zelfstandig inzetbaar en vervangbaar deel van een systeem, dat zijn functionaliteit aanbiedt via goed gedefinieerde interfaces. Applicatiecomponenten stellen functionaliteit beschikbaar, die gebruikt wordt om de applicatiediensten mee te leveren."/>

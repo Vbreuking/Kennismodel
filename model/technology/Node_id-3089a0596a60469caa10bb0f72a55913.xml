@@ -1,4 +1,5 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Platform"
-    id="id-3089a0596a60469caa10bb0f72a55913"/>
+    id="id-3089a0596a60469caa10bb0f72a55913"
+    documentation="Een knooppunt vertegenwoordigt een computationele of fysieke resource die andere computationele of fysieke resources host, manipuleert of ermee communiceert."/>
