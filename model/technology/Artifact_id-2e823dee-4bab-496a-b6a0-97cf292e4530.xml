@@ -1,4 +1,5 @@
 <archimate:Artifact
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Artefact"
-    id="id-2e823dee-4bab-496a-b6a0-97cf292e4530"/>
+    id="id-2e823dee-4bab-496a-b6a0-97cf292e4530"
+    documentation="Een artefact vertegenwoordigt een stukje gegevens dat wordt gebruikt of geproduceerd in een softwareontwikkelingsproces of door de implementatie en werking van een IT-systeem."/>

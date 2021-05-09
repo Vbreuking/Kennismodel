@@ -1,4 +1,5 @@
 <archimate:TechnologyService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="TechnologieService"
-    id="id-b3848f20-6db0-454a-a4c8-2c59b9c652d7"/>
+    id="id-b3848f20-6db0-454a-a4c8-2c59b9c652d7"
+    documentation="Een technologieservice vertegenwoordigt een expliciet gedefinieerd, blootgesteld technologiegedrag."/>

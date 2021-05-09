@@ -5,7 +5,7 @@
     id="id-69388a1b-7830-4ae4-be91-2577683a0ab6">
   <source
       xsi:type="archimate:ApplicationService"
-      href="ApplicationService_id-42eaf18a-e094-4627-a45f-5e8b1c077cbc.xml#id-42eaf18a-e094-4627-a45f-5e8b1c077cbc"/>
+      href="ApplicationService_b8fbb57c-3b03-48fc-b172-dd11698842e2.xml#b8fbb57c-3b03-48fc-b172-dd11698842e2"/>
   <target
       xsi:type="archimate:ApplicationEvent"
       href="ApplicationEvent_id-1c00176e-4b49-4561-9cc6-a0a0966e98d0.xml#id-1c00176e-4b49-4561-9cc6-a0a0966e98d0"/>
