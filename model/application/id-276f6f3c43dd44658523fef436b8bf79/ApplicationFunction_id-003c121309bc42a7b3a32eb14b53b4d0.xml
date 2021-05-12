@@ -1,9 +1,0 @@
-<archimate:ApplicationFunction
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Applicatiefunctie"
-    id="id-003c121309bc42a7b3a32eb14b53b4d0"
-    documentation="Een samenhangende groep interne gedragingen van een applicatiecomponent. Via applicatiefuncties realiseert een applicatiecomponent applicatieservices. Applicatiefunctie wordt altijd omschreven met een naamwoord van handeling. Een voorbeeld van een applicatiefunctie is de Raadplegen zaakdocumenten functie. &#xD;&#xA;Bijvoorbeeld: onderhouden is dus onderhoud of verwerven is verwerving">
-  <properties
-      key="Applicatiefunctiemodel"
-      value="Ja"/>
-</archimate:ApplicationFunction>
