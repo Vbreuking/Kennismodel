@@ -266,8 +266,8 @@
         source="id-3a3e2ee53bd24b9f959bb13b1e5bcb03"
         target="id-c706ace386014ddd869de24bdef3607c">
       <archimateRelationship
-          xsi:type="archimate:CompositionRelationship"
-          href="CompositionRelationship_id-9bf5f5cf0a8c4d94b8652bc0548f3024.xml#id-9bf5f5cf0a8c4d94b8652bc0548f3024"/>
+          xsi:type="archimate:AggregationRelationship"
+          href="AggregationRelationship_id-9582fc9067ef4d93b55428cc1a2818f6.xml#id-9582fc9067ef4d93b55428cc1a2818f6"/>
     </sourceConnections>
     <bounds
         x="420"
