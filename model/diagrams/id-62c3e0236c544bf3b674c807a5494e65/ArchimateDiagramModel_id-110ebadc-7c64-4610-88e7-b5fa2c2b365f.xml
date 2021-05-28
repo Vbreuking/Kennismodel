@@ -368,28 +368,6 @@
       </sourceConnections>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-2d18aeac-70f4-4b3a-9a0d-b0286504878e"
-          font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
-          fontColor="#000000"
-          lineColor="#000000"
-          source="id-7a44ccc0b76046fc8f47155e4d529942"
-          target="id-b162f0d3-a970-43c3-ad10-90d4c585d175">
-        <bendpoints
-            startX="144"
-            startY="12"
-            endX="-155"
-            endY="-165"/>
-        <bendpoints
-            startX="144"
-            startY="159"
-            endX="-155"
-            endY="-18"/>
-        <archimateRelationship
-            xsi:type="archimate:ServingRelationship"
-            href="ServingRelationship_id-b326af56-e917-4fa0-8da3-5e324eab4756.xml#id-b326af56-e917-4fa0-8da3-5e324eab4756"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-a492d7ee-2f45-492a-b7ab-9aec7ea758c8"
           font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
           fontColor="#000000"
@@ -418,6 +396,28 @@
         <archimateRelationship
             xsi:type="archimate:AccessRelationship"
             href="AccessRelationship_id-e958c21a-94dc-4c50-bf51-a08214c973c4.xml#id-e958c21a-94dc-4c50-bf51-a08214c973c4"/>
+      </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-2d18aeac-70f4-4b3a-9a0d-b0286504878e"
+          font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+          fontColor="#000000"
+          lineColor="#000000"
+          source="id-7a44ccc0b76046fc8f47155e4d529942"
+          target="id-b162f0d3-a970-43c3-ad10-90d4c585d175">
+        <bendpoints
+            startX="144"
+            startY="12"
+            endX="-155"
+            endY="-165"/>
+        <bendpoints
+            startX="144"
+            startY="159"
+            endX="-155"
+            endY="-18"/>
+        <archimateRelationship
+            xsi:type="archimate:ServingRelationship"
+            href="ServingRelationship_id-b326af56-e917-4fa0-8da3-5e324eab4756.xml#id-b326af56-e917-4fa0-8da3-5e324eab4756"/>
       </sourceConnections>
       <bounds
           x="468"

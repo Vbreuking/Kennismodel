@@ -195,25 +195,6 @@
           textPosition="1">
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
-            id="id-dce2b9f4a8fc4df29134c30811f046ec"
-            source="id-b1d053da06de4017b4617968a5869f95"
-            target="id-2c80810e-5bbf-4fd6-9094-0279ab767ccd">
-          <bendpoints
-              startX="157"
-              startY="21"
-              endX="-143"
-              endY="-156"/>
-          <bendpoints
-              startX="157"
-              startY="165"
-              endX="-143"
-              endY="-12"/>
-          <archimateRelationship
-              xsi:type="archimate:ServingRelationship"
-              href="ServingRelationship_id-b326af56-e917-4fa0-8da3-5e324eab4756.xml#id-b326af56-e917-4fa0-8da3-5e324eab4756"/>
-        </sourceConnections>
-        <sourceConnections
-            xsi:type="archimate:DiagramModelArchimateConnection"
             id="id-84a197a881894b25b07b03f30c1a3bdd"
             source="id-b1d053da06de4017b4617968a5869f95"
             target="id-9300e04c-dee5-41dd-9ca2-5e8c78bcfeab">
@@ -258,6 +239,25 @@
           <archimateRelationship
               xsi:type="archimate:AccessRelationship"
               href="AccessRelationship_id-e958c21a-94dc-4c50-bf51-a08214c973c4.xml#id-e958c21a-94dc-4c50-bf51-a08214c973c4"/>
+        </sourceConnections>
+        <sourceConnections
+            xsi:type="archimate:DiagramModelArchimateConnection"
+            id="id-dce2b9f4a8fc4df29134c30811f046ec"
+            source="id-b1d053da06de4017b4617968a5869f95"
+            target="id-2c80810e-5bbf-4fd6-9094-0279ab767ccd">
+          <bendpoints
+              startX="157"
+              startY="21"
+              endX="-143"
+              endY="-156"/>
+          <bendpoints
+              startX="157"
+              startY="165"
+              endX="-143"
+              endY="-12"/>
+          <archimateRelationship
+              xsi:type="archimate:ServingRelationship"
+              href="ServingRelationship_id-b326af56-e917-4fa0-8da3-5e324eab4756.xml#id-b326af56-e917-4fa0-8da3-5e324eab4756"/>
         </sourceConnections>
         <bounds
             x="443"
