@@ -279,4 +279,15 @@
         xsi:type="archimate:BusinessActor"
         href="BusinessActor_id-4a49760801364f33ab79f14911e8eefe.xml#id-4a49760801364f33ab79f14911e8eefe"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-083fd21239534b45a810c5a25eefe291"
+      textAlignment="1"
+      content="Nog eens naar de definitie kijken. Wanneer spreken we van een procesketen?">
+    <bounds
+        x="1020"
+        y="647"
+        width="185"
+        height="80"/>
+  </children>
 </archimate:ArchimateDiagramModel>
