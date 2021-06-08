@@ -133,7 +133,6 @@
           font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
           fontColor="#000000"
           lineColor="#5c5c5c"
-          fillColor="#b5ffff"
           textPosition="1">
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
@@ -159,8 +158,8 @@
             width="120"
             height="55"/>
         <archimateElement
-            xsi:type="archimate:ApplicationInteraction"
-            href="ApplicationInteraction_id-316238a1-353a-460e-a1a7-2bac41411e36.xml#id-316238a1-353a-460e-a1a7-2bac41411e36"/>
+            xsi:type="archimate:ApplicationCollaboration"
+            href="ApplicationCollaboration_id-2549fb94265147b2a6f6fbc19aa4949a.xml#id-2549fb94265147b2a6f6fbc19aa4949a"/>
       </children>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
@@ -501,8 +500,8 @@
             width="120"
             height="55"/>
         <archimateElement
-            xsi:type="archimate:ApplicationCollaboration"
-            href="ApplicationCollaboration_id-7b910805db984b77a143527544f66227.xml#id-7b910805db984b77a143527544f66227"/>
+            xsi:type="archimate:ApplicationInteraction"
+            href="ApplicationInteraction_id-816dbc62ff0d41908cd2f98f91a798f1.xml#id-816dbc62ff0d41908cd2f98f91a798f1"/>
       </children>
       <archimateElement
           xsi:type="archimate:Grouping"

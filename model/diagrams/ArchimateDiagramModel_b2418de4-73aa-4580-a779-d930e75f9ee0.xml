@@ -1263,6 +1263,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-f11dc46bcbd5467b92c77e0b82e49ea6"
       targetConnections="id-ebb6cfcc4a56410f9145ce89716e1936"
+      fontColor="#808080"
+      fillColor="#ffffff"
       textPosition="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"

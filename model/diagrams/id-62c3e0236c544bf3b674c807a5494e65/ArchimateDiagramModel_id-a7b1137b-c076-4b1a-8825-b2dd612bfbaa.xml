@@ -138,8 +138,8 @@
           width="120"
           height="55"/>
       <archimateElement
-          xsi:type="archimate:ApplicationCollaboration"
-          href="ApplicationCollaboration_id-7b910805db984b77a143527544f66227.xml#id-7b910805db984b77a143527544f66227"/>
+          xsi:type="archimate:ApplicationInteraction"
+          href="ApplicationInteraction_id-816dbc62ff0d41908cd2f98f91a798f1.xml#id-816dbc62ff0d41908cd2f98f91a798f1"/>
     </children>
     <archimateElement
         xsi:type="archimate:Grouping"

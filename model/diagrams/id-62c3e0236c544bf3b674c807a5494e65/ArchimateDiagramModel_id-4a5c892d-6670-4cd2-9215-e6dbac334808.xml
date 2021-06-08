@@ -56,8 +56,8 @@
           width="120"
           height="55"/>
       <archimateElement
-          xsi:type="archimate:ApplicationInteraction"
-          href="ApplicationInteraction_id-316238a1-353a-460e-a1a7-2bac41411e36.xml#id-316238a1-353a-460e-a1a7-2bac41411e36"/>
+          xsi:type="archimate:ApplicationCollaboration"
+          href="ApplicationCollaboration_id-2549fb94265147b2a6f6fbc19aa4949a.xml#id-2549fb94265147b2a6f6fbc19aa4949a"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
