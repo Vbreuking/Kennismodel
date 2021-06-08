@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Bedrijfsproces"
     id="5cc016f0-1149-4fd1-987b-99b50da16a30"
-    documentation="Een bedrijfsproces is een geordende reeks werkprocessen die onder verantwoordelijkheid van één organisatie wordt uitgevoerd met als doel een dienst te leveren aan een afnemer en die wordt gestart door een specifieke gebeurtenis.">
+    documentation="Een bedrijfsproces is een geordende reeks werkprocessen die onder verantwoordelijkheid van één organisatie wordt uitgevoerd met als doel één dienst te leveren aan een afnemer en die wordt gestart door een specifieke gebeurtenis.">
   <properties
       key="Vanuit CORA 3"
       value="Herzien"/>
