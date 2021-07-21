@@ -16,5 +16,5 @@
       value="We nemen deelbedrijfsservices in de referentiearchitectuur op om te modelleren hoe de producten en diensten hiërarchie is opgebouwd en met welk processtappen ze worden gerealiseerd. Hierbij geldt dat niet alle processtappen in de referentiearchitectuur uitgewerkt zijn: in veel gevallen zullen processtappen organisatieafhankelijk bepaald zijn."/>
   <properties
       key="RGBcode"
-      value="0"/>
+      value="255 255 255"/>
 </archimate:BusinessService>

@@ -23,5 +23,5 @@
       value="Een stuurscenario kan bestaan uit één of meerdere procesketens, maar dat hoeft niet."/>
   <properties
       key="RGBcode"
-      value="0"/>
+      value="223 223 255"/>
 </archimate:BusinessInteraction>

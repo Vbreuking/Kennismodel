@@ -14,5 +14,5 @@
       value="Klantvraag ontvangen, voorwaarde voldaan, elke 10e dag van de maand"/>
   <properties
       key="RGBcode"
-      value="0"/>
+      value="234 234 234"/>
 </archimate:BusinessEvent>
