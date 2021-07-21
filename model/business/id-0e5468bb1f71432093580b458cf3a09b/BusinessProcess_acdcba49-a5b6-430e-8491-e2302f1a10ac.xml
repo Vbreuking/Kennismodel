@@ -39,4 +39,7 @@
   <properties
       key="Thema procesketen"
       value="Ja"/>
+  <properties
+      key="RGBcode"
+      value="0"/>
 </archimate:BusinessProcess>

@@ -15,4 +15,7 @@
   <properties
       key="CORA procesmodel"
       value="Ja"/>
+  <properties
+      key="RGBcode"
+      value="0"/>
 </archimate:BusinessProcess>

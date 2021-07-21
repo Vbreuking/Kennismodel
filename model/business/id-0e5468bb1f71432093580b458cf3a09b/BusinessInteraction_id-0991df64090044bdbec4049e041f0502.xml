@@ -21,4 +21,7 @@
   <properties
       key="Toelichting"
       value="Een stuurscenario kan bestaan uit één of meerdere procesketens, maar dat hoeft niet."/>
+  <properties
+      key="RGBcode"
+      value="0"/>
 </archimate:BusinessInteraction>

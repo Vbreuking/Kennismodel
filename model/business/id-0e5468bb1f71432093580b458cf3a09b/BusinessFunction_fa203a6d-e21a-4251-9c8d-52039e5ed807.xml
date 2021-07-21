@@ -33,4 +33,7 @@
   <properties
       key="Thema procesketen"
       value="Ja"/>
+  <properties
+      key="RGBcode"
+      value="222 238 200"/>
 </archimate:BusinessFunction>

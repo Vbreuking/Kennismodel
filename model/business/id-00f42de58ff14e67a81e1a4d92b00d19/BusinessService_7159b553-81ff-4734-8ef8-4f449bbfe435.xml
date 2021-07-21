@@ -45,4 +45,7 @@
   <properties
       key="RCF"
       value="Ja"/>
+  <properties
+      key="RGBcode"
+      value="0"/>
 </archimate:BusinessService>

@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Onderhoud"
     id="97dde19f-cc82-44b0-b647-f30e38e84864"
-    documentation="Zie domein Onderhoud"/>
+    documentation="Zie domein Onderhoud">
+  <properties
+      key="RGBcode"
+      value="0"/>
+</archimate:BusinessObject>

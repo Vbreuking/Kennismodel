@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Relatie"
     id="b2a54e74-9835-4811-998d-5d31d167201c"
-    documentation="zie domein Relaties"/>
+    documentation="zie domein Relaties">
+  <properties
+      key="RGBcode"
+      value="0"/>
+</archimate:BusinessObject>
