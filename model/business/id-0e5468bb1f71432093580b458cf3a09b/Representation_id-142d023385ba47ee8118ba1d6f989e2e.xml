@@ -1,4 +1,9 @@
 <archimate:Representation
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Informatieobject"
-    id="id-142d023385ba47ee8118ba1d6f989e2e"/>
+    id="id-142d023385ba47ee8118ba1d6f989e2e"
+    documentation="Definitie nog door Arjen de Vries aan tre leveren">
+  <properties
+      key="Informatiefunctiemodel"
+      value="Ja"/>
+</archimate:Representation>
