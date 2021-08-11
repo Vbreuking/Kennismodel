@@ -10,9 +10,6 @@
       key="Toelichting"
       value="Een bedrijfsservice (‘deeldienst’) vormt een stukje in de dienstverlening. Het is het resultaat van een werkproces. De afnemer van de bedrijfsservice kan de eindklant zijn maar ook een interne medewerker of afdeling die het resultaat nodig heeft voor het uitvoeren van het eigen werkproces. We nemen in de referentiearchitectuur bedrijfsservices op om duidelijk te maken welke resultaten werkprocessen opleveren en wat de bijdrage daarvan is aan de dienstverlening aan afnemers."/>
   <properties
-      key="Voorbeelden"
-      value="getekende huurovereenkomst, kandidatenlijst, gebiedsvisie, boeking, overdrachtsbesluit"/>
-  <properties
       key="Dienstenmodel"
       value="Ja"/>
   <properties

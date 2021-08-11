@@ -13,13 +13,7 @@
       key="Toelichting"
       value="Bedrijfsobjecten hangen nauw samen met gegevensobjecten, maar zijn niet hetzelfde. Een belangrijk verschil is het detailniveau: op de bedrijfslaag is veel minder detail nodig dan op de applicatielaag. We nemen in de referentiearchitectuur bedrijfsobjecten op om bij het beschrijven van de werkprocessen te kunnen duiden van welke relevante gebeurtenissen of onderwerpen informatie verwerkt of geproduceerd wordt. Vanaf CORA 4 spreken we over bedrijfsobjecten waar we voorheen in CORA spraken over objecten."/>
   <properties
-      key="Voorbeelden"
-      value="Eenheid, bouwdeel, natuurlijk persoon, klant, mutatieonderhoudstaak"/>
-  <properties
       key="Informatiefunctiemodel"
-      value="Ja"/>
-  <properties
-      key="CORA processjabloon"
       value="Ja"/>
   <properties
       key="Gegevenshuishouding"

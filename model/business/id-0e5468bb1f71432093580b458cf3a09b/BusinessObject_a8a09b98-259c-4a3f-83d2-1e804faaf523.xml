@@ -12,4 +12,7 @@
   <properties
       key="Zaakgericht werken"
       value="Ja"/>
+  <properties
+      key="Voorbeelden"
+      value="Reparatieverzoek, huuropzegging, Overlastmelding"/>
 </archimate:BusinessObject>

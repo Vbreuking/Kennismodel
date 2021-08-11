@@ -10,9 +10,6 @@
       key="Toelichting"
       value="We nemen in de referentiearchitectuur bedrijfsfuncties op om samenhangende bedrijfsservices (en werkprocessen) te kunnen bundelen naar competenties. Een bedrijfsfunctie kan samenvallen met een organisatorische eenheid (‘afdeling’); we nemen die echter niet in de referentiearchitectuur op omdat organisatie-inrichting sterk verschilt per organisatie en ook veranderlijk is. Merk op dat dit dit grote overlap heeft met de bedrijfsprocessen zoals die in CORA 1, 2 en 3 die in CORA 4 geen bedrijfsproces meer zijn."/>
   <properties
-      key="Voorbeelden"
-      value="Verhuren eenheden, onderhouden eenheden, transporteren eenheden"/>
-  <properties
       key="Bedrijfsfunctiemodel"
       value="Ja"/>
   <properties

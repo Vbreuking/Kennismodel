@@ -10,9 +10,6 @@
       key="Toelichting"
       value="We nemen in de referentiearchitectuur gebeurtenissen op om duidelijk te maken wat de aanleiding is tot het starten van een bedrijfsproces en om oorzakelijke en/of temporele relaties tussen bedrijfsprocessen te kunnen modelleren."/>
   <properties
-      key="Voorbeelden"
-      value="Klantvraag ontvangen, voorwaarde voldaan, elke 10e dag van de maand"/>
-  <properties
       key="RGBcode"
       value="234 234 234"/>
 </archimate:BusinessEvent>

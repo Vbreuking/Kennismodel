@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Zaak"
     id="id-5407c7fd9157439c93c03acdfa150a52"
-    documentation="Een zaak is een samenhangende hoeveelheid werk met gedefinieerde aanleiding en een gedefinieerd eindresultaat waarvan kwaliteit en doorlooptijd bewaakt moeten worden. Een zaakeigenaar bewaakt de voortgang en beoogde afronding van de zaak en kan hiervoor ook zelf uitvoerende werkzaamheden voor verrichten.">
+    documentation="Een zaak is een samenhangende hoeveelheid werk met gedefinieerde aanleiding en een gedefinieerd eindresultaat waarvan kwaliteit en doorlooptijd bewaakt moeten worden. Een zaakeigenaar bewaakt de voortgang en beoogde afronding van de zaak en kan hiervoor ook zelf uitvoerende werkzaamheden voor verrichten. Klanten kunnen (indien ingericht) zelf een zaak starten zoals 'mijn reparatieverzoek', 'mijn huuropzegging', 'mijn overlastmelding' en daarvan de voortgang volgen in de 'mijn omgeving' van de woningcorporatie die de zaak in behandeling heeft..">
   <properties
       key="Vanuit CORA 3"
       value="Herzien"/>

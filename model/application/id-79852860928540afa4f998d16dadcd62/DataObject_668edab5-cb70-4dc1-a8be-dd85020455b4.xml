@@ -19,9 +19,6 @@
       key="Voorbeelden"
       value="Klantgegevens, woningaanpassing, adres, verhuurbare eenheid"/>
   <properties
-      key="CORA processjabloon"
-      value="Ja"/>
-  <properties
       key="Gegevenshuishouding"
       value="Ja"/>
   <properties

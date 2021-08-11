@@ -10,9 +10,6 @@
       key="Toelichting"
       value="We nemen werkprocessen op in de referentiearchitectuur om te modelleren hoe bedrijfsprocessen samengesteld zijn, hoe daarbij de verantwoordelijkheden belegd zijn bij bedrijfsfuncties en welke geautomatiseerde ondersteuning daarbij gebruikt wordt. Een belangrijk aspect bij procesinrichting is het streven naar herbruikbaarheid. In de referentiearchitectuur worden daartoe herbruikbare werkprocessen onderkend."/>
   <properties
-      key="Voorbeelden"
-      value="Onderhouden relatie, inplannen reparatie"/>
-  <properties
       key="CORA procesmodel"
       value="Ja"/>
   <properties
