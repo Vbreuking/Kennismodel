@@ -8,7 +8,7 @@
       value="Herzien"/>
   <properties
       key="Toelichting"
-      value="Voor organisaties die zaakgericht werken vormt het zaaktype de classificatie van een onderhanden zaak. Het zaaktype beschrijft daarbij welke procesgang gevolgd wordt, welke informatie benodigd is, etc."/>
+      value="Voor organisaties die zaakgericht werken vormt het zaaktype de classificatie van een onderhanden zaak. Het zaaktype beschrijft wat er in het kader van een zaak dient te gebeuren. Het beschrijft niet hoe dit dient plaats te vinden (is namelijk de essentie van procesbeschrijvingen)."/>
   <properties
       key="Zaakgericht werken"
       value="Ja"/>
