@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Kleurenpallet CORA"
+    name="Kleurenschema CORA"
     id="7d112e62-52e3-4524-9d1f-4c32c0527335">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -19,6 +19,7 @@
         id="id-3f3b549ddde84ed485e44763224453cf"
         name="Legenda gebruikte kleuren CORA concept-type"
         font="1|Segoe UI|12.0|1|WINDOWS|1|-16|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+        fontColor="#1e8ac8"
         textAlignment="1"
         fillColor="#ffffff"
         borderType="1">
