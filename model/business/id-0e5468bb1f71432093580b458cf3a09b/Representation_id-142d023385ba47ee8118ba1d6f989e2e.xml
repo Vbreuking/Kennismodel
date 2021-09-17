@@ -2,11 +2,14 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Informatieobject"
     id="id-142d023385ba47ee8118ba1d6f989e2e"
-    documentation="Een informatieobject is een eenheid van informatie, die relevant is vanuit het bedrijfsperspectief en  betekenis heeft voor de doelstelling en het functioneren van een organisatie. Het is een op zichzelf staande representatie van gegevens met een eigen identiteit. &#xD;&#xA;">
+    documentation="Een informatieobject is een verzameling aan elkaar gerelateerde gegevens die als eenheid wordt behandeld.&#xD;&#xA;">
   <properties
       key="Informatiefunctiemodel"
       value="Ja"/>
   <properties
       key="CORA processjabloon"
       value="Ja"/>
+  <properties
+      key="Toelichting"
+      value="Grondslag voor het componeren van informatieobjecten zijn de bedrijfsobjecten."/>
 </archimate:Representation>

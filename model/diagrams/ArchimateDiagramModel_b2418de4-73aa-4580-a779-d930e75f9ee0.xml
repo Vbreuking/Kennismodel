@@ -288,9 +288,10 @@
         source="df5451cf-8e84-4b1c-b20e-84786bea7abe"
         target="5da3c5a9-3939-4514-b0a2-5419cb83f2b0">
       <bendpoints
-          startX="-168"
-          startY="3"
-          endX="240"/>
+          startX="-133"
+          startY="-3"
+          endX="299"
+          endY="-3"/>
       <archimateRelationship
           xsi:type="archimate:RealizationRelationship"
           href="RealizationRelationship_8db6301f-57ac-4c0c-b2cd-069754c4ed56.xml#8db6301f-57ac-4c0c-b2cd-069754c4ed56"/>
@@ -411,10 +412,6 @@
         id="2278c8b1-c7cd-483e-8807-844094a64605"
         source="8ca75642-f2c4-4f56-8273-f891f8287657"
         target="f29016b5-57dd-4d73-8071-5dcb46256923">
-      <bendpoints
-          startY="-72"
-          endX="-1"
-          endY="141"/>
       <archimateRelationship
           xsi:type="archimate:ServingRelationship"
           href="ServingRelationship_6da4af33-c159-40b8-b881-3b0178fd72ba.xml#6da4af33-c159-40b8-b881-3b0178fd72ba"/>

@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Applicatieservice"
     id="b8fbb57c-3b03-48fc-b172-dd11698842e2"
-    documentation="Een applicatieservice (vrij vertaald gebruikersfunctie) is functionaliteit die een applicatie biedt ter ondersteuning van een werkproces en bedient hiermee een bedrijfsfunctie. Applicatieservices zijn dat wat extern zichtbaar is van de functies van een applicatiecomponent.">
+    documentation="Een applicatieservice is de zichtbare functionaliteit - ook wel de interface van de applicatie, tussen applicatie en gebruiker, of applicaties onderling, al dan niet via een applicatie integratie-laag - die een applicatie biedt ter ondersteuning van een werkproces en bedient hiermee een bedrijfsfunctie. &#xD;&#xA;">
   <properties
       key="Informatiefunctiemodel"
       value="Ja"/>
@@ -14,7 +14,7 @@
       value="Ja"/>
   <properties
       key="Toelichting"
-      value="Gebruikersfuncties werken meestal met scherm en toetsenbord, maar ook geprinte rapportages of notificaties via sms e.d. zijn gebruikersfuncties. We nemen in de referentiearchitectuur gebruikersfuncties op om te modelleren hoe werkprocessen worden ondersteund met geautomatiseerde functionaliteit."/>
+      value="Applicatieservices zijn dat wat extern zichtbaar is van de functies van een applicatiecomponent. Gebruikersfuncties werken meestal met scherm en toetsenbord, maar ook geprinte rapportages of notificaties via sms e.d. zijn gebruikersfuncties."/>
   <properties
       key="Voorbeelden"
       value="Een beheerscherm om klantgegevens in te voeren; een functie om afspraken in te plannen"/>
