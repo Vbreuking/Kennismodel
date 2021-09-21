@@ -15,4 +15,7 @@
   <properties
       key="Voorbeelden"
       value="Reparatieverzoek, huuropzegging, Overlastmelding"/>
+  <properties
+      key="RiskControlFramework"
+      value="Ja"/>
 </archimate:BusinessObject>
