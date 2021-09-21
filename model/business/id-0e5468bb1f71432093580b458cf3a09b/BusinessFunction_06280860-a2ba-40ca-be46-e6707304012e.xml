@@ -24,4 +24,10 @@
   <properties
       key="RGBcode"
       value="141 198 063"/>
+  <properties
+      key="Sturingsmodel"
+      value="Ja"/>
+  <properties
+      key="RiskControlFramework"
+      value="Ja"/>
 </archimate:BusinessFunction>

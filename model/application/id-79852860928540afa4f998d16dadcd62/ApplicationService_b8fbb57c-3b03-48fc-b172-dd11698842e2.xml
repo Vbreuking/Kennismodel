@@ -30,4 +30,7 @@
   <properties
       key="BIM"
       value="Ja"/>
+  <properties
+      key="Werkprocesmodel"
+      value="Ja"/>
 </archimate:ApplicationService>

@@ -33,4 +33,7 @@
   <properties
       key="RGBcode"
       value="245 130 032"/>
+  <properties
+      key="Sturingsmodel"
+      value="Ja"/>
 </archimate:Product>

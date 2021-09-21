@@ -15,4 +15,10 @@
   <properties
       key="Vanuit CORA 3"
       value="Nieuw"/>
+  <properties
+      key="Werkprocesmodel"
+      value="Ja"/>
+  <properties
+      key="Gegevenshuishouding"
+      value="Ja"/>
 </archimate:Representation>

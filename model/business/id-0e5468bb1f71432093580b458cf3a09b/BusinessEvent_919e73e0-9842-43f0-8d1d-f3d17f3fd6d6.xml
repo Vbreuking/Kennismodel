@@ -15,4 +15,7 @@
   <properties
       key="CORA processjabloon"
       value="Ja"/>
+  <properties
+      key="Thema procesketen"
+      value="Ja"/>
 </archimate:BusinessEvent>

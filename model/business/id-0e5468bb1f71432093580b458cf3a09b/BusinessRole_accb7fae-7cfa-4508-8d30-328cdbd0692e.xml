@@ -16,15 +16,9 @@
       key="Rollenmodel"
       value="Ja"/>
   <properties
-      key="Bedrijfsservicesmodel"
-      value="Ja"/>
-  <properties
       key="Organisatie"
       value="Ja"/>
   <properties
-      key="Applicatielaag en services"
-      value="Ja"/>
-  <properties
-      key="Werkprocesmodel"
+      key="RiskControlFramework"
       value="Ja"/>
 </archimate:BusinessRole>

@@ -30,4 +30,13 @@
   <properties
       key="CORA procesmodel"
       value="Ja"/>
+  <properties
+      key="Bedrijfsprocesmodel"
+      value="Ja"/>
+  <properties
+      key="Thema procesketen"
+      value="Ja"/>
+  <properties
+      key="Bedrijfsprocesmodel"
+      value="Ja"/>
 </archimate:BusinessInteraction>

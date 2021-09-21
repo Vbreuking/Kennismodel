@@ -24,4 +24,7 @@
   <properties
       key="BIM"
       value="Ja"/>
+  <properties
+      key="CORA processjabloon"
+      value="Ja"/>
 </archimate:BusinessObject>

@@ -36,4 +36,10 @@
   <properties
       key="Bedrijfsservicesmodel"
       value="Ja"/>
+  <properties
+      key="Sturingsmodel"
+      value="Ja"/>
+  <properties
+      key="RiskControlFramework"
+      value="Ja"/>
 </archimate:BusinessFunction>
