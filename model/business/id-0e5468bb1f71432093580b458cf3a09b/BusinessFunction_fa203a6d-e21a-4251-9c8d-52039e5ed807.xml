@@ -33,4 +33,7 @@
   <properties
       key="RGBcode"
       value="222 238 200"/>
+  <properties
+      key="Bedrijfsservicesmodel"
+      value="Ja"/>
 </archimate:BusinessFunction>

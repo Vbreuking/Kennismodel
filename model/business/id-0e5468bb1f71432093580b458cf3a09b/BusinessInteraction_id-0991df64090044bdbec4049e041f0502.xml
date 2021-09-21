@@ -10,7 +10,7 @@
       key="Sturingsmodel"
       value="Ja"/>
   <properties
-      key="RCF"
+      key="RiskControlFramework"
       value="Ja"/>
   <properties
       key="Voorbeelden"
@@ -24,4 +24,10 @@
   <properties
       key="RGBcode"
       value="223 223 255"/>
+  <properties
+      key="Bedrijfsfunctiemodel"
+      value="Ja"/>
+  <properties
+      key="CORA procesmodel"
+      value="Ja"/>
 </archimate:BusinessInteraction>

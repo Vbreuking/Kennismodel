@@ -12,4 +12,7 @@
   <properties
       key="Toelichting"
       value="Grondslag voor het componeren van informatieobjecten zijn de bedrijfsobjecten."/>
+  <properties
+      key="Vanuit CORA 3"
+      value="Nieuw"/>
 </archimate:Representation>

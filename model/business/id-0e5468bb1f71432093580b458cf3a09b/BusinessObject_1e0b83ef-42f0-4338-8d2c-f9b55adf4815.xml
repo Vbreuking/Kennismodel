@@ -4,9 +4,6 @@
     id="1e0b83ef-42f0-4338-8d2c-f9b55adf4815"
     documentation="Een bedrijfsobject is een al dan niet tastbaar concept waarvan informatie wordt vastgelegd en verwerkt.">
   <properties
-      key="Informatiemodel"
-      value="Ja"/>
-  <properties
       key="Vanuit CORA 3"
       value="Overgenomen"/>
   <properties

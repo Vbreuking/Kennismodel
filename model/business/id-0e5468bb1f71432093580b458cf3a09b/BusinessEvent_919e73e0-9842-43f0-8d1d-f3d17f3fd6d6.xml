@@ -12,4 +12,7 @@
   <properties
       key="RGBcode"
       value="234 234 234"/>
+  <properties
+      key="CORA processjabloon"
+      value="Ja"/>
 </archimate:BusinessEvent>

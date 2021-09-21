@@ -22,7 +22,7 @@
       key="Bedrijfsprocesmodel"
       value="Ja"/>
   <properties
-      key="RCF"
+      key="RiskControlFramework"
       value="Ja"/>
   <properties
       key="BIM"
@@ -33,4 +33,7 @@
   <properties
       key="RGBcode"
       value="191 225 255"/>
+  <properties
+      key="Sturingsmodel"
+      value="Ja"/>
 </archimate:BusinessInteraction>

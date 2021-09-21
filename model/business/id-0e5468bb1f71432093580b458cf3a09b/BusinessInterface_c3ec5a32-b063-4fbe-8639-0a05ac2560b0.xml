@@ -12,7 +12,4 @@
   <properties
       key="Voorbeelden"
       value="Telefoon, post, op locatie"/>
-  <properties
-      key="Dienstenmodel"
-      value="Ja"/>
 </archimate:BusinessInterface>
