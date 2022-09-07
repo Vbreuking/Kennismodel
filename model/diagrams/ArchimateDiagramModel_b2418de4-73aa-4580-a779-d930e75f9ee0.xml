@@ -1230,9 +1230,9 @@
     </sourceConnections>
     <bounds
         x="420"
-        y="407"
+        y="396"
         width="745"
-        height="109"/>
+        height="120"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="af2eaab8-0ebf-4092-9623-6c0ef4e5929f"
@@ -1274,7 +1274,7 @@
       </sourceConnections>
       <bounds
           x="13"
-          y="23"
+          y="34"
           width="120"
           height="55"/>
       <archimateElement
@@ -1298,7 +1298,7 @@
       </sourceConnections>
       <bounds
           x="371"
-          y="8"
+          y="19"
           width="169"
           height="94"/>
       <children
@@ -1336,7 +1336,7 @@
       </sourceConnections>
       <bounds
           x="563"
-          y="8"
+          y="19"
           width="169"
           height="94"/>
       <children
