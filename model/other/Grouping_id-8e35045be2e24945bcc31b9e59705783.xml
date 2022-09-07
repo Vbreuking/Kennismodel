@@ -1,0 +1,17 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Informatiedomein"
+    id="id-8e35045be2e24945bcc31b9e59705783">
+  <properties
+      key="Informatiefunctiemodel"
+      value="Ja"/>
+  <properties
+      key="Gegevenshuishouding"
+      value="Ja"/>
+  <properties
+      key="Toelichting"
+      value="We nemen informatiedomeinen in de referentiearchitectuur op om clusteringen te kunnen aan brengen in het informatielandschap."/>
+  <properties
+      key="Voorbeelden"
+      value="Matching, vastgoedverhuur, vastgoedonderhoud"/>
+</archimate:Grouping>
