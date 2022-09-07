@@ -141,10 +141,10 @@
         <bendpoints
             startX="5"
             startY="-44"
-            endX="-1018"
+            endX="-970"
             endY="-305"/>
         <bendpoints
-            startX="1025"
+            startX="977"
             startY="-44"
             endX="2"
             endY="-305"/>
@@ -856,7 +856,7 @@
           href="AssociationRelationship_2ffdd6c9-e0e2-4747-ac9b-21ebf9a01f77.xml#2ffdd6c9-e0e2-4747-ac9b-21ebf9a01f77"/>
     </sourceConnections>
     <bounds
-        x="1090"
+        x="1104"
         y="209"
         width="120"
         height="55"/>
