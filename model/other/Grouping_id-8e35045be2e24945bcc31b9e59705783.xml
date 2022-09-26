@@ -1,7 +1,8 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Informatiedomein"
-    id="id-8e35045be2e24945bcc31b9e59705783">
+    id="id-8e35045be2e24945bcc31b9e59705783"
+    documentation="Een informatiedomein omvat de geautomatiseerde informatieverwerking van hoofdbedrijfsfuncties, met intern een sterke cohesie en een relatief zwakke koppeling met andere informatiedomeinen.">
   <properties
       key="Informatiefunctiemodel"
       value="Ja"/>
