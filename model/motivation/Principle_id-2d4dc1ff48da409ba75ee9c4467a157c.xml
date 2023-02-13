@@ -1,0 +1,17 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="5: De bedrijfsvoering en informatiehuishouding sluiten aan op (relevante) overheidsbrede basisregistraties."
+    id="id-2d4dc1ff48da409ba75ee9c4467a157c">
+  <properties
+      key="Redenering"
+      value="Het gebruik van overheidsbrede basisregistraties biedt zowel efficiëntie als kwalitatieve voordelen. Omdat overheidsinstellingen deze basisregistraties eveneens hanteren verbetert dit de communicatie en gegevens¬uitwisseling met publieke ketenpartners als gemeenten, kadaster en belastingdienst."/>
+  <properties
+      key="Toelichting"
+      value="Dit betekent dat woningcorporaties hun informatiehuishouding hierop moeten aanpassen. Het gaat vooral om basisregistraties die voor de woningcorporaties relevant zijn zoals de BAG (Adressen en Gebouwen), WOZ, GBA en wellicht de BRI (Basisregistratie Inkomens). "/>
+  <properties
+      key="Toetsing"
+      value="In het beleid van de woningcorporaties moet het zoeken van aansluiting op relevante overheidsbrede basisregistraties aanwezig zijn, bijvoorbeeld in een informatiestrategie of in uitgangspunten van het informatiebeleid."/>
+  <properties
+      key="Bron"
+      value="CORA 3.0"/>
+</archimate:Principle>

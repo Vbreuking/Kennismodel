@@ -1,0 +1,17 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="2: Er wordt binnen de woningcorporatie gewerkt vanuit een branche- en bedrijfsbreed begrippenkader."
+    id="id-d913aa4be405423d999e23ce52902beb">
+  <properties
+      key="Redenering"
+      value="Het is essentieel om binnen een woningcorporatie een zelfde beeld te hebben van de belangrijkste processen, gegevens en informatiefuncties en inzicht in de samenhang en afhankelijkheden."/>
+  <properties
+      key="Toelichting"
+      value="Een gemeenschappelijk branche- en bedrijfsbreed begrippenkader verbetert de besturing, uitvoering en communicatie binnen de woning-corporatie en de branche, maar ook de communicatie met haar belanghebbenden, zoals klanten, leveranciers, partners en toezichthouders. Veel begrippen zijn in CORA gedefinieerd en zouden als basis moeten worden gebruikt."/>
+  <properties
+      key="Toetsing"
+      value="Bij kleinere woningcorporaties is het bedrijf brede begrippenkader vaak impliciet, omdat de medewerkers elkaar kennen en elkaar makkelijk kunnen vinden. Bij grotere woningcorporaties moet het begrippenkader meer expliciet worden. Verwacht wordt dat er actuele en beheerde beschrijvingen zijn van: A) de belangrijkste begrippen, gebaseerd op CORA; B) de verschillende diensten en processen; C) het gegevensmodel met definities; d) Prestatie-indicatoren met definities; E) Zaaktype-beschrijvingen."/>
+  <properties
+      key="Bron"
+      value="CORA 3.0"/>
+</archimate:Principle>

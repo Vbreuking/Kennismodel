@@ -1,0 +1,17 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="7: Uitwisselbaarheid van gegevens is gebaseerd op breed geaccepteerde en actuele standaarden."
+    id="id-ddebd1a1203d411c8b5416c352986058">
+  <properties
+      key="Redenering"
+      value="Uitwisselbaarheid van gegevens op basis van geaccepteerde en actuele standaarden verbetert de interoperabiliteit van een woningcorporatie met zijn partners."/>
+  <properties
+      key="Toelichting"
+      value="Het gaat hier zowel om functionele eisen (de inhoud van gegevens-berichten) en de semantiek (de betekenis van de gegevens van het berichtenverkeer) als om technische eisen (de technische vorm, bijvoorbeeld een webservice of een XML-bericht). De semantiek van de gegevens is daarbij gebaseerd op CORA gegevensdefinities. In VERA wordt het berichtenverkeer gedefinieerd."/>
+  <properties
+      key="Toetsing"
+      value="&#x9;In het informatie/IT-beleid is duidelijk welke (functionele, semantische en technische) standaarden een woningcorporatie hanteert over gegevens¬uitwisseling c.q. op welke geaccepteerde standaarden men aan wil sluiten. Vastgesteld moet worden of het beleid ook leidt tot een goede werking van het gegevensbeheer. CORA (en VERA) definities zijn het uitgangspunt binnen het informatie/IT-beleid."/>
+  <properties
+      key="Bron"
+      value="CORA 3.0"/>
+</archimate:Principle>

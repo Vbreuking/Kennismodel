@@ -1,0 +1,17 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="6: Basisgegevens worden eenmalig geregistreerd vanuit het proces dat deze gegevens waarneemt, creëert of aanpast en deze registraties hebben een geborgde kwaliteit voor gegevensgebruik elders."
+    id="id-ffa7d95a1c1b4d6785f97fab8a221e04">
+  <properties
+      key="Redenering"
+      value="Door eisen te stellen aan de vastlegging van deze kernregistraties kan de kwaliteit van de beschikbare gegevens beter worden gegarandeerd. Alleen geborgde registraties worden gebruikt en toegepast als basis voor de informatievoorziening. Ongeborgde (sub)registraties worden niet meer gebruikt. Door alleen geborgde registraties te gebruiken wordt de kwaliteit van afgeleide gegevens (vaak managementinformatie) tevens verhoogd."/>
+  <properties
+      key="Toelichting"
+      value="De gegevens zouden in meerdere applicatiesystemen kunnen voorkomen, maar het wijzigen van de gegevens vindt maar in één applicatiesysteem plaats, zodat er een authentieke bron is die als interne kernregistratie fungeert. Op afdelings- en teamniveau eigen subregistraties aanleggen ontstaan er meerdere informatiebronnen, van wisselende betrouwbaarheid en dus meerdere ‘waarheden’. Dit geeft ongemak en onduidelijkheid. Daarom moet het gebruik van ongeborgde (sub)registraties vermeden worden."/>
+  <properties
+      key="Toetsing"
+      value="Het eenmalig vastleggen van gegevens aan de bron moet expliciet in het beleid verankerd zijn en gegevensbeheer moet hierop plaatsvinden."/>
+  <properties
+      key="Bron"
+      value="CORA 3.0"/>
+</archimate:Principle>

@@ -1,0 +1,17 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="3: Bij veranderingen wordt gestuurd op de integrale samenhang."
+    id="id-0eaee38c6bf6474e91c1e2f4caec0025">
+  <properties
+      key="Redenering"
+      value="Besluiten over veranderingen worden genomen via samenwerking binnen de organisatie en in samenhang met bedrijfsvoering, informatievoorziening en IT. Resultaten van veranderingen sluiten dan (inhoudelijk) beter op elkaar aan."/>
+  <properties
+      key="Toelichting"
+      value="Sturing op integrale samenhang verbetert de kwaliteit van besluiten en kan zo bijdragen tot betere projectresultaten, versterking van beoogde effecten, hogere baten en minder kosten."/>
+  <properties
+      key="Toetsing"
+      value="Bij kleinere woningcorporaties is de integrale samenhang meer vanzelfsprekend en is impliciete kennis daarover eerder afdoende dan bij grotere woningcorporaties. Bij grotere woningcorporaties zal de samen-hang eerder moeten blijken uit expliciete beleids- en architectuurkaders (zoals bedrijfsuitgangspunten, richtlijnen, informatie/IT-beleid, IT-standaard, een proces- of applicatiearchitectuur). Deze moeten kader-stellend zijn voor veranderingen die doorgevoerd gaan worden. Er is dan ook iemand verantwoordelijke voor deze beleids- en architectuurkaders."/>
+  <properties
+      key="Bron"
+      value="CORA 3.0"/>
+</archimate:Principle>

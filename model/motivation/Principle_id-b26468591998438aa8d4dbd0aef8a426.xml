@@ -1,0 +1,17 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4: Processen worden ontworpen vanuit de toegevoegde waarde die zij bieden bij het leveren van producten en diensten aan (interne of externe) klanten."
+    id="id-b26468591998438aa8d4dbd0aef8a426">
+  <properties
+      key="Redenering"
+      value="Woningcorporaties gaan steeds klantgerichter werken. Hierbij is het van belang de interne processen het vereiste dienstverleningsniveau kunnen leveren en de informatievoorziening zo te hebben ingericht dat de klant maximaal bediend kan worden."/>
+  <properties
+      key="Toelichting"
+      value="Het proces moet een herkenbaar resultaat (product of dienst) opleveren voor de klant. Processen en hun opbouw kunnen daarop beoordeeld worden: wat voegt iedere processtap of –activiteit toe aan het resultaat dat we opleveren aan de klant? Er zijn verschillende methodieken beschikbaar voor procesoptimalisatie (bijvoorbeeld LEAN)."/>
+  <properties
+      key="Toetsing"
+      value="Om vast te stellen of de toegevoegde waarde wordt geleverd, zou gekeken kunnen worden of de eisen die aan een proces gesteld worden duidelijk betrekking hebben op het bedienen van de (externe) klant (waaronder huurders, kopers en leveranciers), eisen van toezichthouders, de wetgever en interne eisen vanuit bijvoorbeeld risicomanagement."/>
+  <properties
+      key="Bron"
+      value="CORA 3.0"/>
+</archimate:Principle>

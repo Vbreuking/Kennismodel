@@ -1,0 +1,17 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="1: De doelstellingen van de woningcorporatie en de inrichting van de bedrijfsvoering bepalen de inrichting van de informatievoorziening en de inzet van IT."
+    id="id-ddfb076c801645f48e8f7965f7a09df9">
+  <properties
+      key="Redenering"
+      value="Ontwikkelingen op het gebied van de informatievoorziening en/of IT moeten aantoonbaar aansluiting hebben op de doelstellingen van de woningcorporatie en de wijze van bedrijfsvoering."/>
+  <properties
+      key="Toelichting"
+      value="Dit principe zorgt ervoor dat er een goede afstemming is tussen bedrijfsvoering, informatievoorziening en IT, in lijn met de bedrijfsdoelstellingen. Het vormt een basis voor centrale besluitvorming over veranderprojecten waar managers vanuit de bedrijfsvoering, informatievoorziening en IT bij betrokken zijn (portfoliomanagement). Wanneer wordt gestuurd op resultaten, dan is decentrale besluitvorming ook mogelijk en vaak wenselijk. Bijvoorbeeld bij een meer proces- of klant georiënteerde organisatie, of als continu verbeteren en procesinnovatie een doelstelling is."/>
+  <properties
+      key="Toetsing"
+      value="Dit blijkt uit afspraken over de wijze van besturing van veranderingen binnen woningcorporaties of is traceerbaar in de woningcorporatiearchitectuur. Wordt bijvoorbeeld gewerkt met planvorming op basis van op CORA gebaseerde uitgangspunten?"/>
+  <properties
+      key="Bron"
+      value="CORA 3.0"/>
+</archimate:Principle>
