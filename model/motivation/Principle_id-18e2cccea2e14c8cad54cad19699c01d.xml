@@ -1,0 +1,18 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="8: Een bedrijfsproces levert een eenduidige dienst (geen composiet) en een werkproces een eenduidige bedrijfsservice."
+    id="id-18e2cccea2e14c8cad54cad19699c01d">
+  <properties
+      key="Redenering"/>
+  <properties
+      key="Toelichting"
+      value="Door een hiërarchi van producten en diensten te hanteren leidt dat ook tot de hiërarchie van processen, bedrijfsfuncties en ...."/>
+  <properties
+      key="Toetsing"/>
+  <properties
+      key="Bron"
+      value="CORA #.#"/>
+  <properties
+      key="CORA-concepttype"
+      value="Principe"/>
+</archimate:Principle>
