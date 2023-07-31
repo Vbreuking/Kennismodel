@@ -30,4 +30,7 @@
   <properties
       key="RiskControlFramework"
       value="Ja"/>
+  <properties
+      key="Schrijfwijze"
+      value="Altijd in enkelvoudig zelfstandig naamwoord"/>
 </archimate:BusinessFunction>

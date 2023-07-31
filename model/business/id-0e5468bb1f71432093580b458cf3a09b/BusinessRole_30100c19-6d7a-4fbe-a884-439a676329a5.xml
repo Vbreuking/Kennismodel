@@ -27,4 +27,7 @@
   <properties
       key="RGBcode"
       value="255 248 225"/>
+  <properties
+      key="Schrijfwijze"
+      value="Altijd in enkelvoudig zelfstandig naamwoord"/>
 </archimate:BusinessRole>

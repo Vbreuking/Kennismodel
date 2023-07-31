@@ -42,4 +42,7 @@
   <properties
       key="RGBcode"
       value="249 180 123"/>
+  <properties
+      key="Schrijfwijze"
+      value="Bij voorkeur één enkelvoudig zelfstandig naamwoord eventueel voorafgegaan door een bijvoeglijk naamwoord of een werkwoord in de voltooid verleden tijd"/>
 </archimate:BusinessService>

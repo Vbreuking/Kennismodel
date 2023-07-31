@@ -32,8 +32,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-36f23d042b074212b72668e9bd73b11e"
       textAlignment="1"
-      fillColor="#ffffdf"
-      type="1">
+      fillColor="#ffffdf">
     <features
         name="gradient"
         value="1"/>
@@ -97,8 +96,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-b120208c205a4b80a2bb9908aaf1c6ff"
         targetConnections="id-487d9556b9164ea49b2918ad1123f950"
-        fillColor="#ffffff"
-        type="1">
+        fillColor="#ffffff">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-d223d4cbd26d40448cf1db54387c4196"
@@ -117,7 +115,8 @@
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-884f032f6ad84cabadc88a4798b84e73"
           targetConnections="id-97575939b3eb4e73a5f5bf516fa186b8 id-1fdb4052d29a48cbbee84b076b20c756 id-d223d4cbd26d40448cf1db54387c4196"
-          textPosition="1">
+          textPosition="1"
+          type="1">
         <bounds
             x="26"
             y="24"
@@ -135,8 +134,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-e8fcc1189cf340d5abf010b0478786b9"
         targetConnections="id-4db72e20dbce44d9be98e98b3f5d1748"
-        fillColor="#ffffff"
-        type="1">
+        fillColor="#ffffff">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-8a80d1a984a84f5eb7aec4e3420eac74"
@@ -158,7 +156,8 @@
           fontColor="#400040"
           lineColor="#808080"
           fillColor="#b5ffff"
-          textPosition="1">
+          textPosition="1"
+          type="1">
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
             id="id-97575939b3eb4e73a5f5bf516fa186b8"

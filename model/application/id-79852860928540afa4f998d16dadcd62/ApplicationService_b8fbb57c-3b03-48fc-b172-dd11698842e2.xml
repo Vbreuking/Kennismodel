@@ -33,4 +33,7 @@
   <properties
       key="Werkprocesmodel"
       value="Ja"/>
+  <properties
+      key="Schrijfwijze"
+      value="Een werkwoord eindigend op '-ing' gevolgd door soms een bijvoeglijk naamwoord en altijd één enkelvoudig zelfstandig naamwoord. "/>
 </archimate:ApplicationService>

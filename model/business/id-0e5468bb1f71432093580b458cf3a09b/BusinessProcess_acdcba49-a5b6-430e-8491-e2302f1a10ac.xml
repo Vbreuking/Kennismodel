@@ -42,4 +42,7 @@
   <properties
       key="Informatiefunctiemodel"
       value="Ja"/>
+  <properties
+      key="Schrijfwijze"
+      value="Altijd een werkwoord gevolgd door een enkelvoudig zelfstandig naamwoord"/>
 </archimate:BusinessProcess>

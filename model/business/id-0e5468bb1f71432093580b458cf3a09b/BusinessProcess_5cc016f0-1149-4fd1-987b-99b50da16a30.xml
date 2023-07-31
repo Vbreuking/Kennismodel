@@ -36,4 +36,7 @@
   <properties
       key="RGBcode"
       value="147 204 255"/>
+  <properties
+      key="Schrijfwijze"
+      value="Altijd een werkwoord gevolgd door een meervoudig zelfstandig naamwoord"/>
 </archimate:BusinessProcess>

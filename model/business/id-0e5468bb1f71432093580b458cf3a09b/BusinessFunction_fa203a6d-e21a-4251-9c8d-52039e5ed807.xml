@@ -42,4 +42,7 @@
   <properties
       key="RiskControlFramework"
       value="Ja"/>
+  <properties
+      key="Schrijfwijze"
+      value="In enkelvoudig zelfstandig naamwoord eventueel in combinatie met een bijvoeglijk naamwoord of een werkwoord eindigend op 'atie'."/>
 </archimate:BusinessFunction>

@@ -8,7 +8,8 @@
       id="id-79c21a0a392e40e4bac4937605801972"
       font="1|Segoe UI|18.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
       fontColor="#0099cc"
-      fillColor="#e8e8e8">
+      fillColor="#e8e8e8"
+      type="1">
     <bounds
         x="12"
         y="12"
@@ -83,7 +84,8 @@
           id="id-7c429b5f7c694695850e1810535865e4"
           font="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
           fillColor="#f58220"
-          textPosition="1">
+          textPosition="1"
+          type="1">
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
             id="id-1e91f5e6db5e4393b01bd9068137dd1a"
@@ -416,7 +418,8 @@
           font="1|Segoe UI|9.0|1|WINDOWS|1|-12|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
           fontColor="#ffffff"
           fillColor="#7d903d"
-          textPosition="1">
+          textPosition="1"
+          type="1">
         <bounds
             x="36"
             y="36"
@@ -432,7 +435,8 @@
           font="1|Segoe UI|9.0|1|WINDOWS|1|-12|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
           fontColor="#ffffff"
           fillColor="#9b3c8c"
-          textPosition="1">
+          textPosition="1"
+          type="1">
         <bounds
             x="180"
             y="36"
@@ -448,7 +452,8 @@
           font="1|Segoe UI|9.0|1|WINDOWS|1|-12|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
           fontColor="#ffffff"
           fillColor="#5f5f5f"
-          textPosition="1">
+          textPosition="1"
+          type="1">
         <bounds
             x="324"
             y="36"
@@ -464,7 +469,8 @@
           font="1|Segoe UI|9.0|1|WINDOWS|1|-12|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
           fontColor="#ffffff"
           fillColor="#2a8ec9"
-          textPosition="1">
+          textPosition="1"
+          type="1">
         <bounds
             x="468"
             y="36"
@@ -480,7 +486,8 @@
           font="1|Segoe UI|9.0|1|WINDOWS|1|-12|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
           fontColor="#ffffff"
           fillColor="#f18e00"
-          textPosition="1">
+          textPosition="1"
+          type="1">
         <bounds
             x="612"
             y="36"
@@ -496,7 +503,8 @@
           font="1|Segoe UI|9.0|1|WINDOWS|1|-12|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
           fontColor="#ffffff"
           fillColor="#21e4bd"
-          textPosition="1">
+          textPosition="1"
+          type="1">
         <bounds
             x="756"
             y="36"
@@ -512,7 +520,8 @@
           font="1|Segoe UI|9.0|1|WINDOWS|1|-12|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
           fontColor="#ffffff"
           fillColor="#d2a6a6"
-          textPosition="1">
+          textPosition="1"
+          type="1">
         <bounds
             x="36"
             y="108"
@@ -528,7 +537,8 @@
           font="1|Segoe UI|9.0|1|WINDOWS|1|-12|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
           fontColor="#808080"
           fillColor="#ffff80"
-          textPosition="1">
+          textPosition="1"
+          type="1">
         <bounds
             x="36"
             y="180"
@@ -544,7 +554,8 @@
           font="1|Segoe UI|9.0|1|WINDOWS|1|-12|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
           fontColor="#808080"
           fillColor="#80ffff"
-          textPosition="1">
+          textPosition="1"
+          type="1">
         <bounds
             x="180"
             y="180"
@@ -560,7 +571,8 @@
           font="1|Segoe UI|9.0|1|WINDOWS|1|-12|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
           fontColor="#808080"
           fillColor="#d2d7d7"
-          textPosition="1">
+          textPosition="1"
+          type="1">
         <bounds
             x="180"
             y="108"
@@ -576,7 +588,8 @@
           font="1|Segoe UI|9.0|1|WINDOWS|1|-12|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
           fontColor="#ffffff"
           fillColor="#00c8c8"
-          textPosition="1">
+          textPosition="1"
+          type="1">
         <bounds
             x="324"
             y="180"
@@ -592,7 +605,8 @@
           font="1|Segoe UI|9.0|1|WINDOWS|1|-12|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
           fontColor="#ffffff"
           fillColor="#800040"
-          textPosition="1">
+          textPosition="1"
+          type="1">
         <bounds
             x="468"
             y="180"
@@ -608,7 +622,8 @@
           font="1|Segoe UI|9.0|1|WINDOWS|1|-12|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
           fontColor="#ffffff"
           fillColor="#ff80c0"
-          textPosition="1">
+          textPosition="1"
+          type="1">
         <bounds
             x="612"
             y="180"
@@ -624,7 +639,8 @@
           font="1|Segoe UI|9.0|1|WINDOWS|1|-12|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
           fontColor="#808080"
           fillColor="#ffff00"
-          textPosition="1">
+          textPosition="1"
+          type="1">
         <bounds
             x="324"
             y="108"
@@ -640,7 +656,8 @@
           font="1|Segoe UI|9.0|1|WINDOWS|1|-12|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
           fontColor="#808080"
           fillColor="#00ff00"
-          textPosition="1">
+          textPosition="1"
+          type="1">
         <bounds
             x="468"
             y="108"
@@ -656,7 +673,8 @@
           font="1|Segoe UI|9.0|1|WINDOWS|1|-12|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
           fontColor="#ffffff"
           fillColor="#ff8080"
-          textPosition="1">
+          textPosition="1"
+          type="1">
         <bounds
             x="612"
             y="108"
@@ -672,7 +690,8 @@
           font="1|Segoe UI|9.0|1|WINDOWS|1|-12|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
           fontColor="#808080"
           fillColor="#80ff80"
-          textPosition="1">
+          textPosition="1"
+          type="1">
         <bounds
             x="756"
             y="180"
@@ -688,7 +707,8 @@
           font="1|Segoe UI|9.0|1|WINDOWS|1|-12|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
           fontColor="#ffffff"
           fillColor="#8080ff"
-          textPosition="1">
+          textPosition="1"
+          type="1">
         <bounds
             x="756"
             y="108"
