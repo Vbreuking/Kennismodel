@@ -21,4 +21,7 @@
   <properties
       key="Gegevenshuishouding"
       value="Ja"/>
+  <properties
+      key="Schrijfwijze"
+      value="Indien mogelijk een enkelvoudig zelfstandig naamwoord"/>
 </archimate:Representation>
