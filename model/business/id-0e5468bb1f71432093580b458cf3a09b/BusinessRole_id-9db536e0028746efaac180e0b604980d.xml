@@ -1,0 +1,9 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Rol"
+    id="id-9db536e0028746efaac180e0b604980d"
+    documentation="Een rol is de hoedanigheid waarin of waarmee een actor (een persoon, afdeling of organisatie) participeert. Een actor die een leverende rol heeft, kan in een andere context juist een afnemende rol hebben of een uitvoerende rol. ">
+  <properties
+      key="RGBcode"
+      value="255 248 225"/>
+</archimate:BusinessRole>

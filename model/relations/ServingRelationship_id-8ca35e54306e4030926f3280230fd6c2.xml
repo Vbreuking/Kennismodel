@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-8ca35e54306e4030926f3280230fd6c2"
+    documentation="Een rol is de hoedanigheid van een persoon ">
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-9db536e0028746efaac180e0b604980d.xml#id-9db536e0028746efaac180e0b604980d"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_7159b553-81ff-4734-8ef8-4f449bbfe435.xml#7159b553-81ff-4734-8ef8-4f449bbfe435"/>
+</archimate:ServingRelationship>
