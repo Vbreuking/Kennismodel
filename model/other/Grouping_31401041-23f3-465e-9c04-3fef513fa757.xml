@@ -13,9 +13,6 @@
       key="Voorbeelden"
       value="Vastgoed, Relaties, Overeenkomst"/>
   <properties
-      key="Vanuit CORA 3"
-      value="Overgenomen"/>
-  <properties
       key="Gegevenshuishouding"
       value="Ja"/>
   <properties
@@ -23,8 +20,5 @@
       value="Ja"/>
   <properties
       key="Werkprocesmodel"
-      value="Ja"/>
-  <properties
-      key="BIM"
       value="Ja"/>
 </archimate:Grouping>

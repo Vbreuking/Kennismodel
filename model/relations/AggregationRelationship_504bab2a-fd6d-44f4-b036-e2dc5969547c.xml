@@ -3,9 +3,6 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="bestaat uit"
     id="504bab2a-fd6d-44f4-b036-e2dc5969547c">
-  <properties
-      key="Vanuit CORA 3"
-      value="Nieuw"/>
   <source
       xsi:type="archimate:BusinessProcess"
       href="BusinessProcess_dc3889c1-db48-4f4f-9876-fda8b85fb2c8.xml#dc3889c1-db48-4f4f-9876-fda8b85fb2c8"/>

@@ -18,10 +18,4 @@
   <properties
       key="Voorbeelden"
       value="Vastgoed, relaties, financiën"/>
-  <properties
-      key="BIM"
-      value="Ja"/>
-  <properties
-      key="Vanuit CORA 3"
-      value="Nieuw"/>
 </archimate:Grouping>

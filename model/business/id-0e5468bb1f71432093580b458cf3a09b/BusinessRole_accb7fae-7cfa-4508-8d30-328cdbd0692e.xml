@@ -4,9 +4,6 @@
     id="accb7fae-7cfa-4508-8d30-328cdbd0692e"
     documentation="Een uitvoerende rol is de hoedanigheid waarin c.q. verantwoordelijkheid waarmee een persoon, afdeling of organisatie een toegewezen taak uitvoert.">
   <properties
-      key="Vanuit CORA 3"
-      value="Nieuw"/>
-  <properties
       key="Toelichting"
       value="We nemen uitvoerende rollen in de referentiearchitectuur op om de modelleren hoe de verantwoordelijkheid voor het uitvoeren van processtappen is belegd."/>
   <properties

@@ -6,9 +6,6 @@
   <properties
       key="Informatiefunctiemodel"
       value="Ja"/>
-  <properties
-      key="Vanuit CORA 3"
-      value="Nieuw"/>
   <source
       xsi:type="archimate:ApplicationService"
       href="ApplicationService_b8fbb57c-3b03-48fc-b172-dd11698842e2.xml#b8fbb57c-3b03-48fc-b172-dd11698842e2"/>

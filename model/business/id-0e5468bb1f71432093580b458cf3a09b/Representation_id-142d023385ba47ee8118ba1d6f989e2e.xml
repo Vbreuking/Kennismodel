@@ -11,10 +11,7 @@
       value="Ja"/>
   <properties
       key="Toelichting"
-      value="Grondslag voor het componeren van informatieobjecten zijn de bedrijfsobjecten."/>
-  <properties
-      key="Vanuit CORA 3"
-      value="Nieuw"/>
+      value="Grondslag voor het componeren van informatieobjecten zijn de bedrijfsobjecten. Ze zijn in het kader van het Aedes processenboek toegevoegd. Het is de bedoeling ze t.z.t. te vertalen naar bedrijfsobject en/of gegevensobject."/>
   <properties
       key="Werkprocesmodel"
       value="Ja"/>
@@ -24,4 +21,5 @@
   <properties
       key="Schrijfwijze"
       value="Indien mogelijk een enkelvoudig zelfstandig naamwoord"/>
+  <properties/>
 </archimate:Representation>

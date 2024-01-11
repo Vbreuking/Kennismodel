@@ -4,9 +4,6 @@
     id="6615e330-f807-47db-ba85-9350b9bcb459"
     documentation="Een begrip is een binnen de reikwijdte van de architectuur relevante term met een definitie of omschrijving.">
   <properties
-      key="Vanuit CORA 3"
-      value="Herzien"/>
-  <properties
       key="Toelichting"
       value="Naast de architectuurconcepten in het metamodel hanteren we diverse begrippen die een nadere toelichting vragen. Daarvoor gebruiken we dit algemene concept. Dit concept kent geen formele relaties met andere concepten, maar in de tekst bij een begrip zijn wel informele verwijzingen mogelijk naar andere concepten in de architectuur."/>
   <properties

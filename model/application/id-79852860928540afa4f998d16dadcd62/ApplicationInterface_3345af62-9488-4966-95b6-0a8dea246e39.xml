@@ -4,9 +4,6 @@
     id="3345af62-9488-4966-95b6-0a8dea246e39"
     documentation="Een koppelvlak (VERA) is een aansluiting met een exacte specificatie via welke applicaties gegevens met elkaar kunnen uitwisselen.">
   <properties
-      key="Vanuit CORA 3"
-      value="Nieuw"/>
-  <properties
       key="Applicatiemodel"
       value="Ja"/>
   <properties

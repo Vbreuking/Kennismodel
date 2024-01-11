@@ -3,9 +3,6 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="groepeert"
     id="aa0a55b3-70f2-4b71-87fc-e453cc3ecaf5">
-  <properties
-      key="Vanuit CORA 3"
-      value="herzien"/>
   <source
       xsi:type="archimate:BusinessService"
       href="BusinessService_a6090c4f-6f9d-4daa-a516-dea066e50a56.xml#a6090c4f-6f9d-4daa-a516-dea066e50a56"/>

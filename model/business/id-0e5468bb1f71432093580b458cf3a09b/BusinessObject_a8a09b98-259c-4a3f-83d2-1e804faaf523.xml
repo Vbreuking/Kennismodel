@@ -4,9 +4,6 @@
     id="a8a09b98-259c-4a3f-83d2-1e804faaf523"
     documentation="Een zaaktype is een generieke omschrijving van zaken van hetzelfde type.">
   <properties
-      key="Vanuit CORA 3"
-      value="Herzien"/>
-  <properties
       key="Toelichting"
       value="Voor organisaties die zaakgericht werken vormt het zaaktype de classificatie van een onderhanden zaak. Het zaaktype beschrijft wat er in het kader van een zaak dient te gebeuren. Het beschrijft niet hoe dit dient plaats te vinden (is namelijk de essentie van procesbeschrijvingen)."/>
   <properties

@@ -8,9 +8,6 @@
   <properties
       key="Voorbeelden"/>
   <properties
-      key="Vanuit CORA 3"
-      value="Nieuw"/>
-  <properties
       key="Sturingsmodel"
       value="Ja"/>
 </archimate:Driver>

@@ -4,9 +4,6 @@
     id="acdcba49-a5b6-430e-8491-e2302f1a10ac"
     documentation="Een werkproces is een geordende reeks processtappen die onder verantwoordelijkheid van een enkele bedrijfsfunctie uitgevoerd wordt en die als afgebakend onderdeel van een bedrijfsproces de levering van een bedrijfsservice realiseert.">
   <properties
-      key="Vanuit CORA 3"
-      value="Herzien"/>
-  <properties
       key="Toelichting"
       value="We nemen werkprocessen op in de referentiearchitectuur om te modelleren hoe bedrijfsprocessen samengesteld zijn, hoe daarbij de verantwoordelijkheden belegd zijn bij bedrijfsfuncties en welke geautomatiseerde ondersteuning daarbij gebruikt wordt. Een belangrijk aspect bij procesinrichting is het streven naar herbruikbaarheid. In de referentiearchitectuur worden daartoe herbruikbare werkprocessen onderkend."/>
   <properties
@@ -29,9 +26,6 @@
       value="Ja"/>
   <properties
       key="RiskControlFramework"
-      value="Ja"/>
-  <properties
-      key="BIM"
       value="Ja"/>
   <properties
       key="Thema procesketen"

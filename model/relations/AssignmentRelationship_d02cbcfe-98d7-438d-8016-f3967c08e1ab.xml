@@ -3,9 +3,6 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="vervult"
     id="d02cbcfe-98d7-438d-8016-f3967c08e1ab">
-  <properties
-      key="Vanuit CORA 3"
-      value="Nieuw"/>
   <source
       xsi:type="archimate:BusinessActor"
       href="BusinessActor_4985960f-5ad2-4ed7-95f5-b2a61857e0a1.xml#4985960f-5ad2-4ed7-95f5-b2a61857e0a1"/>

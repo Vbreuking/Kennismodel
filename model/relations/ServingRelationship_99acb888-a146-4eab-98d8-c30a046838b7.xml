@@ -3,9 +3,6 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="bedient"
     id="99acb888-a146-4eab-98d8-c30a046838b7">
-  <properties
-      key="Vanuit CORA 3"
-      value="herzien"/>
   <source
       xsi:type="archimate:Product"
       href="Product_6becb536-3125-4749-ad48-887218fab3d1.xml#6becb536-3125-4749-ad48-887218fab3d1"/>

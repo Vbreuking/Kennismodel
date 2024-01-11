@@ -4,9 +4,6 @@
     id="f620e23a-7327-424f-9148-84712ed11112"
     documentation="Een procesketen is een samenwerking van meerdere organisaties/organisatieonderdelen met elk een eigen verantwoordelijkheid die de levering van een of meer samenhangende diensten aan een klant realiseert.">
   <properties
-      key="Vanuit CORA 3"
-      value="Herzien"/>
-  <properties
       key="Synoniemen uit de sector"
       value="Ketenproces, netwerkproces"/>
   <properties
@@ -23,9 +20,6 @@
       value="Ja"/>
   <properties
       key="RiskControlFramework"
-      value="Ja"/>
-  <properties
-      key="BIM"
       value="Ja"/>
   <properties
       key="Thema procesketen"

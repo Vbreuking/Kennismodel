@@ -4,9 +4,6 @@
     id="c3ec5a32-b063-4fbe-8639-0a05ac2560b0"
     documentation="Een kanaal is de wijze waarop een bedrijfsservice beschikbaar is voor afnemers.">
   <properties
-      key="Vanuit CORA 3"
-      value="Nieuw"/>
-  <properties
       key="Toelichting"
       value="We nemen kanalen in de referentiearchitectuur op om te modelleren hoe de interactie met afnemers plaatsvindt.. Dit kan per bedrijfsservice anders zijn."/>
   <properties

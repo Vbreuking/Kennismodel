@@ -4,9 +4,6 @@
     id="1e0b83ef-42f0-4338-8d2c-f9b55adf4815"
     documentation="Een bedrijfsobject is een al dan niet tastbaar concept waarvan informatie wordt vastgelegd en verwerkt.">
   <properties
-      key="Vanuit CORA 3"
-      value="Overgenomen"/>
-  <properties
       key="Toelichting"
       value="Bedrijfsobjecten hangen nauw samen met gegevensobjecten, maar zijn niet hetzelfde. Een belangrijk verschil is het detailniveau: op de bedrijfslaag is veel minder detail nodig dan op de applicatielaag. We nemen in de referentiearchitectuur bedrijfsobjecten op om bij het beschrijven van de werkprocessen te kunnen duiden van welke relevante gebeurtenissen of onderwerpen informatie verwerkt of geproduceerd wordt. Vanaf CORA 4 spreken we over bedrijfsobjecten waar we voorheen in CORA spraken over objecten."/>
   <properties
@@ -20,9 +17,6 @@
       value="Ja"/>
   <properties
       key="Werkprocesmodel"
-      value="Ja"/>
-  <properties
-      key="BIM"
       value="Ja"/>
   <properties
       key="CORA processjabloon"

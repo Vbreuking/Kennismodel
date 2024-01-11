@@ -3,9 +3,6 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="bedient"
     id="1dbddedb-21ae-4cb1-b3eb-b3411088ada6">
-  <properties
-      key="Vanuit CORA 3"
-      value="Nieuw"/>
   <source
       xsi:type="archimate:BusinessInterface"
       href="BusinessInterface_c3ec5a32-b063-4fbe-8639-0a05ac2560b0.xml#c3ec5a32-b063-4fbe-8639-0a05ac2560b0"/>

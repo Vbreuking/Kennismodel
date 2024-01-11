@@ -4,11 +4,8 @@
     id="5cc016f0-1149-4fd1-987b-99b50da16a30"
     documentation="Een bedrijfsproces is een geordende reeks werkprocessen die onder verantwoordelijkheid van één organisatie wordt uitgevoerd met als doel één dienst te leveren aan een afnemer en die wordt gestart door een specifieke gebeurtenis.">
   <properties
-      key="Vanuit CORA 3"
-      value="Herzien"/>
-  <properties
       key="Toelichting"
-      value="Een bedrijfsproces beschouwen we altijd als ‘van klant tot klant’ gezien vanuit het perspectief van de uitvoerende organisatie. Het betreft dus het geheel van activiteiten waarmee de afnemer tevreden wordt gesteld en de organisatie ‘klaar’ is. De verantwoordelijkheid voor de uitvoering ligt bij de organisatie, maar de uitvoering zelf kan geheel of gedeeltelijk uitbesteed zijn. In CORA 3 hebben bedrijfsprocessen grote overlap met bedrijfsfuncties. Door bedrijfsfunctie in het kennismodel op te nemen hebben we een optimalisatieslag van het procesmodel kunnen toepassen."/>
+      value="Een bedrijfsproces beschouwen we altijd als ‘van klant tot klant’ gezien vanuit het perspectief van de uitvoerende organisatie. Het betreft dus het geheel van activiteiten waarmee de afnemer tevreden wordt gesteld en de organisatie ‘klaar’ is. De verantwoordelijkheid voor de uitvoering ligt bij de organisatie, maar de uitvoering zelf kan geheel of gedeeltelijk uitbesteed zijn."/>
   <properties
       key="CORA procesmodel"
       value="Ja"/>
@@ -26,9 +23,6 @@
       value="Ja"/>
   <properties
       key="RiskControlFramework"
-      value="Ja"/>
-  <properties
-      key="BIM"
       value="Ja"/>
   <properties
       key="Thema procesketen"

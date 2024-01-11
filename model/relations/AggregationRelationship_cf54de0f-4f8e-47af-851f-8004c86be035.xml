@@ -3,9 +3,6 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="is opgebouwd uit"
     id="cf54de0f-4f8e-47af-851f-8004c86be035">
-  <properties
-      key="Vanuit CORA 3"
-      value="overgenomen"/>
   <source
       xsi:type="archimate:Value"
       href="Value_65636b8f-44b8-4d1d-a4d7-c6d2f96c7c0b.xml#65636b8f-44b8-4d1d-a4d7-c6d2f96c7c0b"/>
