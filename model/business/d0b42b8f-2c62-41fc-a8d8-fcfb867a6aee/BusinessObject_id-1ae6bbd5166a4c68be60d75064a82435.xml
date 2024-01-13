@@ -1,4 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Akte (BRK)"
-    id="id-1ae6bbd5166a4c68be60d75064a82435"/>
+    id="id-1ae6bbd5166a4c68be60d75064a82435">
+  <properties
+      key="RGBcode"
+      value="255 255 128"/>
+</archimate:BusinessObject>

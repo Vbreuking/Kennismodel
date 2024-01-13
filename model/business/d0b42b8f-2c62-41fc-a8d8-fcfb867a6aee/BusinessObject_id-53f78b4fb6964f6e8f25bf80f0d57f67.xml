@@ -1,4 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Publicaties"
-    id="id-53f78b4fb6964f6e8f25bf80f0d57f67"/>
+    id="id-53f78b4fb6964f6e8f25bf80f0d57f67">
+  <properties
+      key="RGBcode"
+      value="000 255 000"/>
+</archimate:BusinessObject>

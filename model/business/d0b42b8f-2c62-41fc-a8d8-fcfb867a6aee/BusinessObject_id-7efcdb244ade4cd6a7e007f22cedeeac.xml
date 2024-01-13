@@ -1,8 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Adres"
-    id="id-26c6b3f22ac345038a7f41e790f9a182">
+    name="Gebeurtenissen"
+    id="id-7efcdb244ade4cd6a7e007f22cedeeac">
   <properties
       key="RGBcode"
-      value="210 166 166"/>
+      value="183 000 000"/>
 </archimate:BusinessObject>

@@ -1,4 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Woningwaardering"
-    id="id-672b057683424b4792dcdbb56e2afc37"/>
+    id="id-672b057683424b4792dcdbb56e2afc37">
+  <properties
+      key="RGBcode"
+      value="128 128 255"/>
+</archimate:BusinessObject>

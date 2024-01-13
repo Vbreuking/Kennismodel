@@ -1,4 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Waarde onroerende zaken (WOZ)"
-    id="id-00e76921747f407f8d2d653010a34e0b"/>
+    id="id-00e76921747f407f8d2d653010a34e0b">
+  <properties
+      key="RGBcode"
+      value="128 255 128"/>
+</archimate:BusinessObject>

@@ -1,4 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Matching"
-    id="id-aa821c67dc294b9cb284179114a3e064"/>
+    id="id-aa821c67dc294b9cb284179114a3e064">
+  <properties
+      key="RGBcode"
+      value="255 255 000"/>
+</archimate:BusinessObject>

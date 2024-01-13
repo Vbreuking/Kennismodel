@@ -1,8 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Adres"
-    id="id-26c6b3f22ac345038a7f41e790f9a182">
+    name="Dossier"
+    id="id-b467d7ea49b94c05956611e6c97e2f85">
   <properties
       key="RGBcode"
-      value="210 166 166"/>
+      value="181 168 069"/>
 </archimate:BusinessObject>

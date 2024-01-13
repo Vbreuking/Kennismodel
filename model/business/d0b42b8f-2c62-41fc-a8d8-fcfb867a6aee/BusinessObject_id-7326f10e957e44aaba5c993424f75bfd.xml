@@ -1,4 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Topografie"
-    id="id-7326f10e957e44aaba5c993424f75bfd"/>
+    id="id-7326f10e957e44aaba5c993424f75bfd">
+  <properties
+      key="RGBcode"
+      value="255 128 128"/>
+</archimate:BusinessObject>

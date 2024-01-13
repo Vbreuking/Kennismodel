@@ -1,4 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Handelsregister (HR)"
-    id="id-332293cb0e0645c9b18932b455ff1631"/>
+    id="id-332293cb0e0645c9b18932b455ff1631">
+  <properties
+      key="RGBcode"
+      value="000 200 200"/>
+</archimate:BusinessObject>

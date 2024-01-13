@@ -1,4 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Inkomen (BRI)"
-    id="id-5651272b3c294c99bc26e82297ed5165"/>
+    id="id-5651272b3c294c99bc26e82297ed5165">
+  <properties
+      key="RGBcode"
+      value="128 000 064"/>
+</archimate:BusinessObject>

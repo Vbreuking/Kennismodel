@@ -1,4 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Kadaster (BRK)"
-    id="id-909341dc17ed4feab1540f70232a7678"/>
+    id="id-909341dc17ed4feab1540f70232a7678">
+  <properties
+      key="RGBcode"
+      value="255 128 192"/>
+</archimate:BusinessObject>

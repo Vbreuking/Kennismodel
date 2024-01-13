@@ -1,4 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Basis registratie personen (BRP)"
-    id="id-524b55effa8c48758599a9dae5c6a8c8"/>
+    id="id-524b55effa8c48758599a9dae5c6a8c8">
+  <properties
+      key="RGBcode"
+      value="128 255 255"/>
+</archimate:BusinessObject>
