@@ -10,8 +10,7 @@
       fontColor="#000000"
       lineColor="#5c5c5c"
       textAlignment="1"
-      fillColor="#ffffff"
-      type="1">
+      fillColor="#ffffff">
     <bounds
         x="24"
         y="48"
@@ -171,8 +170,7 @@
           fontColor="#000000"
           lineColor="#5c5c5c"
           fillColor="#b5ffff"
-          textPosition="1"
-          type="1">
+          textPosition="1">
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
             id="id-c58a74ee888a4e38a4273d7e3e4c3a91"
@@ -634,8 +632,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-ade161f336104f1c80b9fc3f71f88c12"
         targetConnections="id-8e76e30a9c6440d3aee167822b262320 id-637b8b8d11c74ac4adb4fc5acdba314b id-2478789a3c144a079884e3d3cb196f72"
-        textPosition="1"
-        type="1">
+        textPosition="1">
       <bounds
           x="204"
           y="162"

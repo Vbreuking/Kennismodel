@@ -9,8 +9,7 @@
       font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
       fontColor="#000000"
       lineColor="#5c5c5c"
-      fillColor="#b5ffff"
-      type="1">
+      fillColor="#b5ffff">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="7c96603f-19e1-4952-95b7-c3153e197aee"
@@ -51,8 +50,7 @@
         fontColor="#000000"
         lineColor="#5c5c5c"
         fillColor="#b5ffff"
-        textPosition="1"
-        type="1">
+        textPosition="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-11e41b92-affd-483b-a150-e5b31a292d9b"
@@ -82,8 +80,7 @@
         fontColor="#000000"
         lineColor="#5c5c5c"
         fillColor="#b5ffff"
-        textPosition="1"
-        type="1">
+        textPosition="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-6b66436a-98ab-4d68-8fc5-5d43eefe40f3"
@@ -113,8 +110,7 @@
         fontColor="#000000"
         lineColor="#5c5c5c"
         fillColor="#b5ffff"
-        textPosition="1"
-        type="1">
+        textPosition="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-5783952e-7501-4321-9c53-ae29ed59b78d"
@@ -214,8 +210,7 @@
       fontColor="#000000"
       lineColor="#5c5c5c"
       fillColor="#b5ffff"
-      textPosition="1"
-      type="1">
+      textPosition="1">
     <bounds
         x="564"
         y="189"

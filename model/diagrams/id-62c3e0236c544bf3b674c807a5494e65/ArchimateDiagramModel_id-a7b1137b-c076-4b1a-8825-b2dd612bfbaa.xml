@@ -10,8 +10,7 @@
       fontColor="#000000"
       lineColor="#5c5c5c"
       textAlignment="1"
-      fillColor="#ffffff"
-      type="1">
+      fillColor="#ffffff">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-3a28fe89991c4d4db75c303eec40ee44"
@@ -63,8 +62,7 @@
         fontColor="#000000"
         lineColor="#5c5c5c"
         fillColor="#ffffff"
-        textPosition="1"
-        type="1">
+        textPosition="1">
       <bounds
           x="144"
           y="36"

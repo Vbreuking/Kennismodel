@@ -17,8 +17,8 @@
           href="AggregationRelationship_5efc684e-c805-4404-ae23-ce7d2a2ac90d.xml#5efc684e-c805-4404-ae23-ce7d2a2ac90d"/>
     </sourceConnections>
     <bounds
-        x="408"
-        y="24"
+        x="516"
+        y="12"
         width="457"
         height="163"/>
     <children
@@ -100,11 +100,10 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-a1f5c2b2f0114bd1b54a69aa0c0df3bf"
       targetConnections="id-2fc719a16f3d4e709a3275594ec93c1d id-2f340e0bb4b24b4aa7e66201795762f1"
-      textPosition="1"
-      type="1">
+      textPosition="1">
     <bounds
-        x="132"
-        y="396"
+        x="240"
+        y="384"
         width="120"
         height="55"/>
     <archimateElement
@@ -115,8 +114,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-aa1bcc583f20436fa3ba082f9faad291"
       targetConnections="id-d0a2da3ab5394fa09b12dbfe1d7eb4c9"
-      textPosition="1"
-      type="1">
+      textPosition="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-2fc719a16f3d4e709a3275594ec93c1d"
@@ -141,8 +139,8 @@
           href="AssociationRelationship_id-fc0129312cde4ff9b09ea2f5dc0ad7dc.xml#id-fc0129312cde4ff9b09ea2f5dc0ad7dc"/>
     </sourceConnections>
     <bounds
-        x="360"
-        y="396"
+        x="468"
+        y="384"
         width="120"
         height="55"/>
     <archimateElement
@@ -214,8 +212,8 @@
           href="ServingRelationship_id-8c1be7a6b4d84e2db651f58b9d7ea6b4.xml#id-8c1be7a6b4d84e2db651f58b9d7ea6b4"/>
     </sourceConnections>
     <bounds
-        x="588"
-        y="240"
+        x="696"
+        y="228"
         width="120"
         height="55"/>
     <archimateElement
@@ -236,8 +234,8 @@
           href="AssignmentRelationship_id-4ad86706252d440ebd1358db98078e41.xml#id-4ad86706252d440ebd1358db98078e41"/>
     </sourceConnections>
     <bounds
-        x="948"
-        y="240"
+        x="1056"
+        y="228"
         width="120"
         height="55"/>
     <archimateElement
@@ -261,8 +259,8 @@
           href="AssignmentRelationship_id-e2f41f37feee4e98802f67a99bf80671.xml#id-e2f41f37feee4e98802f67a99bf80671"/>
     </sourceConnections>
     <bounds
-        x="948"
-        y="396"
+        x="1056"
+        y="384"
         width="120"
         height="55"/>
     <archimateElement
@@ -291,8 +289,8 @@
           href="RealizationRelationship_id-82522daf750e44e6834259c63341a673.xml#id-82522daf750e44e6834259c63341a673"/>
     </sourceConnections>
     <bounds
-        x="588"
-        y="396"
+        x="696"
+        y="384"
         width="120"
         height="55"/>
     <archimateElement
@@ -303,8 +301,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-17556b73fe2c499492dc442d2b165245"
       targetConnections="id-b9f30d52b90641c1894ee2d59dd517be id-3781f7c8fe8d4b7e908880a6c5dbf718"
-      textPosition="1"
-      type="1">
+      textPosition="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-2f340e0bb4b24b4aa7e66201795762f1"
@@ -315,8 +312,8 @@
           href="RealizationRelationship_id-c7998fe76d4949cd80704e34d1a0addb.xml#id-c7998fe76d4949cd80704e34d1a0addb"/>
     </sourceConnections>
     <bounds
-        x="132"
-        y="240"
+        x="240"
+        y="228"
         width="120"
         height="55"/>
     <archimateElement
@@ -330,8 +327,8 @@
       textAlignment="1"
       content="Een applicatieservice vertegenwoordigt expliciet aangeboden applicatie-gedrag, kan een bedrijfsproces, werkproces en een stap bedienen en maakt gebruik van gegevensobjecten">
     <bounds
-        x="120"
-        y="60"
+        x="228"
+        y="48"
         width="217"
         height="91"/>
   </children>
@@ -342,8 +339,8 @@
       textAlignment="1"
       content="Een informatieobject is een representatieobject en wordt door 1 of meer gegevensobjecten vastgelegd">
     <bounds
-        x="-96"
-        y="225"
+        x="12"
+        y="213"
         width="185"
         height="85"/>
   </children>
@@ -354,8 +351,8 @@
       textAlignment="1"
       content="Een applicatiefunctie vertegenwoordigt geautomatiseerd gedrag dat uitgevoerd wordt door een applicatiecomponent">
     <bounds
-        x="555"
-        y="468"
+        x="663"
+        y="456"
         width="185"
         height="97"/>
   </children>
@@ -366,8 +363,8 @@
       textAlignment="1"
       content="Een applicatie-interface stelt applicatieservices ter beschikking aan de omgeving en bedient een applicatiecomponent">
     <bounds
-        x="1108"
-        y="228"
+        x="1216"
+        y="216"
         width="185"
         height="80"/>
   </children>
@@ -378,8 +375,8 @@
       textAlignment="1"
       content="Een applicatiecomponent is een herbruikbare samenstelling van applicatie functionaliteit">
     <bounds
-        x="924"
-        y="468"
+        x="1032"
+        y="456"
         width="185"
         height="80"/>
   </children>
@@ -390,8 +387,8 @@
       textAlignment="1"
       content="Een bedrijfsobject vertegenwoordigt een concept in een bedrijfsdomein waarvan informatie wordt vastgelegd en verwerkt">
     <bounds
-        x="-96"
-        y="381"
+        x="12"
+        y="369"
         width="185"
         height="86"/>
   </children>
@@ -402,8 +399,8 @@
       textAlignment="1"
       content="Een gegevensobject is een logische verzameling van gegevens voor de vastlegging van bedrijfsobjecten">
     <bounds
-        x="331"
-        y="468"
+        x="439"
+        y="456"
         width="178"
         height="74"/>
   </children>
