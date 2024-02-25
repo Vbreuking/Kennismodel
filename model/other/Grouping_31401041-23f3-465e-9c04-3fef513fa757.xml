@@ -1,8 +1,8 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Bedrijfsobjectdomein"
+    name="Domein"
     id="31401041-23f3-465e-9c04-3fef513fa757"
-    documentation="Een bedrijfsobjectdomein is een logisch samenhangende groepering van bedrijfsobjecten.">
+    documentation="Een domein is een logisch samenhangende groepering van bedrijfsobjecten.">
   <properties
       key="Informatiefunctiemodel"
       value="Ja"/>

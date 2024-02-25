@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bericht"
+    id="id-920ae8b014b04667a8d31b9288133622"
+    documentation="Een ketenproces is een geordende reeks services die door verschillende organisaties worden geleverd met als doel via één organisatie diensten te leveren aan de klant. Voor deze gegevensuitwisseling worden berichten uitgewerkt met klassen en attributen. Soms zijn er maar enkele triggers uitgewerkt van een ketenproces. Later worden deze ketenprocessen met meer detail uitgewerkt."/>

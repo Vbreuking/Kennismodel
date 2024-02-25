@@ -1,7 +1,6 @@
 <archimate:AggregationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="bestaat uit"
     id="dd9a8024-0126-42ac-8c8b-c2a46174be65">
   <source
       xsi:type="archimate:BusinessProcess"

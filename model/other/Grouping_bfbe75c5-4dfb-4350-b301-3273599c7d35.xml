@@ -1,8 +1,8 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Gegevensobjectdomein"
+    name="Gegevensdomein"
     id="bfbe75c5-4dfb-4350-b301-3273599c7d35"
-    documentation="Een gegevensobjectdomein is een logisch samenhangende groepering van gegevensobjecten.">
+    documentation="Een gegevensdomein is een logisch samenhangende groepering van gegevensobjecten.">
   <properties
       key="Applicatielaag en services"
       value="Ja"/>
