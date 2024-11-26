@@ -10,7 +10,8 @@
       fontColor="#000000"
       lineColor="#5c5c5c"
       textAlignment="1"
-      fillColor="#ffffff">
+      fillColor="#ffffff"
+      type="1">
     <bounds
         x="12"
         y="12"
@@ -24,8 +25,7 @@
         fontColor="#000000"
         lineColor="#5c5c5c"
         textAlignment="1"
-        fillColor="#ffffff"
-        type="1">
+        fillColor="#ffffff">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-41244d33-5553-42b8-ba4c-b31a99e5f299"
@@ -72,8 +72,7 @@
         fontColor="#000000"
         lineColor="#5c5c5c"
         textAlignment="1"
-        fillColor="#ffffff"
-        type="1">
+        fillColor="#ffffff">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-a55fbdc8-d3b5-45cd-bdb0-96dea5ceed26"
@@ -275,7 +274,8 @@
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-d187b1efb0e44c24b26206d049dbc300"
           targetConnections="id-ed6645c8-3535-4258-98f2-1bff0e8c04f6 id-5bd5a567-14e8-4d40-b096-bb4a22c9f7ee id-194fc63dbe0f4d249eb95996248ca0c8"
-          textPosition="1">
+          textPosition="1"
+          type="1">
         <bounds
             x="144"
             y="114"

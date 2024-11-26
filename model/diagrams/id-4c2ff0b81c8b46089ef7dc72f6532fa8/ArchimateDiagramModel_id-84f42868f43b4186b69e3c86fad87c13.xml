@@ -6,7 +6,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-60ca821299e943beb4b0699830ffeb39"
-      textAlignment="1">
+      textAlignment="1"
+      type="1">
     <bounds
         x="12"
         y="12"
@@ -16,7 +17,8 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-4b4697e339104016a004057a84086541"
         targetConnections="id-a533264b565b420f9da84cf5ec16e5ad id-4f78d3c7c1534afe9cdc1cb06fe02462"
-        textPosition="1">
+        textPosition="1"
+        type="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-cd0cf7c34ba64fd5a051b02c94c3edef"
@@ -39,7 +41,8 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-1f4707760d874c48a8ede449b6f18818"
         targetConnections="id-31523cf4f4ac4966a66bfb2f2b2655e5"
-        textPosition="1">
+        textPosition="1"
+        type="1">
       <bounds
           x="24"
           y="156"
@@ -52,7 +55,8 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-398cffd0a6b24af9b19ef37a97ed32ea"
-        textPosition="1">
+        textPosition="1"
+        type="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-a533264b565b420f9da84cf5ec16e5ad"
@@ -83,7 +87,8 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-e0e8b140d435448895fcbf43b972cf42"
         targetConnections="id-cd0cf7c34ba64fd5a051b02c94c3edef"
-        textPosition="1">
+        textPosition="1"
+        type="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-31523cf4f4ac4966a66bfb2f2b2655e5"
@@ -105,7 +110,8 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-ad75e46af4ea4a0d8ffe13282527fc7c"
-        textPosition="1">
+        textPosition="1"
+        type="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-4f78d3c7c1534afe9cdc1cb06fe02462"
