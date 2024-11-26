@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Run"
+    id="id-2794073c3dba4b2289bce7a2d75595b2">
+  <source
+      xsi:type="archimate:Capability"
+      href="Capability_id-f2612ebcc30d40c698d967e4f44dc678.xml#id-f2612ebcc30d40c698d967e4f44dc678"/>
+  <target
+      xsi:type="archimate:Capability"
+      href="Capability_id-1eb1bdbe152b44b4966d7f6d3b13bccc.xml#id-1eb1bdbe152b44b4966d7f6d3b13bccc"/>
+</archimate:ServingRelationship>
