@@ -1,0 +1,9 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Secundair of ondersteunend"
+    id="id-8e982e52f0b64b9eb8bd1aa6a9da7532"
+    documentation="Deze bedrijfsfuncties ondersteunen de overige bedrijfsfuncties en kunnen doorgaans worden gezien als generieke functies die in elke willekeurige organisatie te herkennen zijn.">
+  <properties
+      key="Bron"
+      value="CORA 1.0"/>
+</archimate:Grouping>
