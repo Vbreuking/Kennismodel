@@ -120,8 +120,8 @@
           href="AggregationRelationship_9621f07a-4c00-4172-8eac-f971bcb6812b.xml#9621f07a-4c00-4172-8eac-f971bcb6812b"/>
     </sourceConnections>
     <bounds
-        x="19"
-        y="11"
+        x="22"
+        y="6"
         width="145"
         height="97"/>
     <children
@@ -139,13 +139,13 @@
           source="e5bc0029-c28a-44b1-b188-abfa30b82dd6"
           target="d334acce-e6b8-4245-a266-5664f2c46477">
         <bendpoints
-            startX="5"
-            startY="-50"
+            startX="2"
+            startY="-57"
             endX="-996"
             endY="-329"/>
         <bendpoints
-            startX="1001"
-            startY="-50"
+            startX="998"
+            startY="-57"
             endY="-329"/>
         <archimateRelationship
             xsi:type="archimate:TriggeringRelationship"
@@ -295,6 +295,7 @@
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="83433f71-8a3a-42a1-a501-a4eb2ef08500"
+        textPosition="2"
         source="8ca75642-f2c4-4f56-8273-f891f8287657"
         target="df5451cf-8e84-4b1c-b20e-84786bea7abe">
       <bendpoints
@@ -364,12 +365,17 @@
         lineColor="#c0c0c0"
         source="1e2e057a-c616-4dbb-bc7e-a34d50b037f0"
         target="e5bc0029-c28a-44b1-b188-abfa30b82dd6">
+      <bendpoints
+          startX="1"
+          startY="-291"
+          endX="5"
+          endY="298"/>
       <archimateRelationship
           xsi:type="archimate:TriggeringRelationship"
           href="TriggeringRelationship_1dbddedb-21ae-4cb1-b3eb-b3411088ada6.xml#1dbddedb-21ae-4cb1-b3eb-b3411088ada6"/>
     </sourceConnections>
     <bounds
-        x="32"
+        x="35"
         y="624"
         width="120"
         height="55"/>
@@ -654,10 +660,10 @@
         source="43fe1fc7-b4d3-40bb-82c9-f4f583b7f8b2"
         target="73caaf49-e56c-4127-94b1-d813829ba9fa">
       <bendpoints
-          startX="156"
-          startY="-3"
-          endX="-72"
-          endY="-36"/>
+          startX="131"
+          startY="-15"
+          endX="-48"
+          endY="-48"/>
       <archimateRelationship
           xsi:type="archimate:SpecializationRelationship"
           href="SpecializationRelationship_f1212f54-e54c-4c02-afa1-ea845fc20600.xml#f1212f54-e54c-4c02-afa1-ea845fc20600"/>
@@ -671,9 +677,9 @@
         source="43fe1fc7-b4d3-40bb-82c9-f4f583b7f8b2"
         target="c54a2bf0-23e8-41d0-91b1-283d4c4db64d">
       <bendpoints
-          startX="-445"
+          startX="-469"
           startY="-15"
-          endX="228"
+          endX="204"
           endY="-51"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
@@ -701,10 +707,10 @@
         source="55abc671-7c37-4181-8b6d-d84cc0340bc8"
         target="73caaf49-e56c-4127-94b1-d813829ba9fa">
       <bendpoints
-          startX="156"
-          startY="-3"
-          endX="-72"
-          endY="36"/>
+          startX="131"
+          startY="21"
+          endX="-48"
+          endY="60"/>
       <archimateRelationship
           xsi:type="archimate:SpecializationRelationship"
           href="SpecializationRelationship_86d66b04-cb43-4538-810a-a587668582d4.xml#86d66b04-cb43-4538-810a-a587668582d4"/>
@@ -718,10 +724,10 @@
         source="55abc671-7c37-4181-8b6d-d84cc0340bc8"
         target="7c3008de-404d-476b-a063-b4952c8b07a1">
       <bendpoints
-          startX="-877"
-          startY="9"
-          endX="72"
-          endY="43"/>
+          startX="-925"
+          startY="21"
+          endX="120"
+          endY="55"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_8919d30c-008b-4043-82bd-35369454f3ef.xml#8919d30c-008b-4043-82bd-35369454f3ef"/>
@@ -1088,6 +1094,7 @@
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="b4a961ef-2b39-4af5-97d5-21427d0099b3"
+        textPosition="0"
         source="f29016b5-57dd-4d73-8071-5dcb46256923"
         target="df5451cf-8e84-4b1c-b20e-84786bea7abe">
       <bendpoints
