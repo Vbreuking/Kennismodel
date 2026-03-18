@@ -1,0 +1,42 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CORA en VERA"
+    id="id-48ce628d665b4fb28dff95062b233f1c">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-c8071b357b584a429fe8d40e2c816690"
+      textPosition="1">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-7390e78ab5e84751aa74249c6baedd5a"
+        source="id-c8071b357b584a429fe8d40e2c816690"
+        target="id-b0efc33e463b444ead88e6ba83a7a2a2">
+      <archimateRelationship
+          xsi:type="archimate:RealizationRelationship"
+          href="RealizationRelationship_id-1bcdf7d60e3c4410aeeeb744f798584b.xml#id-1bcdf7d60e3c4410aeeeb744f798584b"/>
+    </sourceConnections>
+    <bounds
+        x="47"
+        y="158"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:DataObject"
+        href="DataObject_id-2705f9138661497fbf0af1a008193e40.xml#id-2705f9138661497fbf0af1a008193e40"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-b0efc33e463b444ead88e6ba83a7a2a2"
+      targetConnections="id-7390e78ab5e84751aa74249c6baedd5a"
+      textPosition="1">
+    <bounds
+        x="48"
+        y="36"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessObject"
+        href="BusinessObject_id-ed49dc5c62c04b9498438792453d11aa.xml#id-ed49dc5c62c04b9498438792453d11aa"/>
+  </children>
+</archimate:ArchimateDiagramModel>
